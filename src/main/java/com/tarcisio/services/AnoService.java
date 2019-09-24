@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.tarcisio.repository.Repository;
+import com.tarcisio.services.exception.ObjectNotFoundException;
 
 import java.io.File;
 import java.util.Iterator;
@@ -12,42 +13,45 @@ public class AnoService implements Repository {
 
     File jsonData = new File("anos.json");
 
-
     @Override
     public String findById(String idModelo) {
-        try {
-            //create ObjectMapper instance
-            ObjectMapper objectMapper = new ObjectMapper();
-            ArrayNode root = objectMapper.createArrayNode();
 
-            //read JSON like DOM Parser
+        // create ObjectMapper instance
+        ObjectMapper objectMapper = new ObjectMapper();
+        ArrayNode root = objectMapper.createArrayNode();
+
+        try {
+            // read JSON like DOM Parser
             JsonNode rootNode = objectMapper.readTree(jsonData);
             Iterator<JsonNode> elements = rootNode.elements();
             while (elements.hasNext()) {
                 JsonNode node = elements.next();
 
                 String idModelo_ = node.get("id_modelo").toString();
-                if(idModelo_.equals(idModelo)) {
+                if (idModelo_.equals(idModelo)) {
                     root.add(node);
                 }
             }
-            return root.toString();
         } catch (Exception ex) {
-            ex.printStackTrace();
+            throw new RuntimeException("erro ao carregar json: " + jsonData.getName(), ex);
         }
-        return null;
+
+        if(root.size() == 0)
+            throw new ObjectNotFoundException("modelo não encontrada: " + idModelo);
+
+        return root.toString();
     }
 
     @Override
     public String findAll() {
-        try {          
+        try {
 
-            //create ObjectMapper instance
+            // create ObjectMapper instance
             ObjectMapper objectMapper = new ObjectMapper();
 
-            //read JSON like DOM Parser
-            JsonNode rootNode = objectMapper.readTree(jsonData);            
-           
+            // read JSON like DOM Parser
+            JsonNode rootNode = objectMapper.readTree(jsonData);
+
             return rootNode.toString();
         } catch (Exception ex) {
             ex.printStackTrace();
