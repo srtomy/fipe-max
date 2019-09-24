@@ -1,0 +1,4431 @@
+[
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "100 2.8 V6",
+        "marca": "AUDI",
+        "key": "100-43",
+        "id": "43",
+        "fipe_name": "100 2.8 V6"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "100 2.8 V6 Avant",
+        "marca": "AUDI",
+        "key": "100-44",
+        "id": "44",
+        "fipe_name": "100 2.8 V6 Avant"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "100 S-4 2.2 Avant Turbo",
+        "marca": "AUDI",
+        "key": "100-45",
+        "id": "45",
+        "fipe_name": "100 S-4 2.2 Avant Turbo"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "80 2.0",
+        "marca": "AUDI",
+        "key": "80-46",
+        "id": "46",
+        "fipe_name": "80 2.0"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "80 2.0 Avant",
+        "marca": "AUDI",
+        "key": "80-47",
+        "id": "47",
+        "fipe_name": "80 2.0 Avant"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "80 2.6/ 2.8",
+        "marca": "AUDI",
+        "key": "80-48",
+        "id": "48",
+        "fipe_name": "80 2.6/ 2.8"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "80 2.6/2.8 Avant",
+        "marca": "AUDI",
+        "key": "80-49",
+        "id": "49",
+        "fipe_name": "80 2.6/2.8 Avant"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "80 2.8 Cabriolet",
+        "marca": "AUDI",
+        "key": "80-50",
+        "id": "50",
+        "fipe_name": "80 2.8 Cabriolet"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "80 S2 Avant",
+        "marca": "AUDI",
+        "key": "80-51",
+        "id": "51",
+        "fipe_name": "80 S2 Avant"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 1.4 TFSI 122cv S-tronic 3p",
+        "marca": "AUDI",
+        "key": "a1-5496",
+        "id": "5496",
+        "fipe_name": "A1 1.4 TFSI 122cv S-tronic 3p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 2.0 TFSI Quattro 256cv 3p",
+        "marca": "AUDI",
+        "key": "a1-6293",
+        "id": "6293",
+        "fipe_name": "A1 2.0 TFSI Quattro 256cv 3p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 Sport 1.4 TFSI 185cv 3p S-tronic",
+        "marca": "AUDI",
+        "key": "a1-6143",
+        "id": "6143",
+        "fipe_name": "A1 Sport 1.4 TFSI 185cv 3p S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 Sport. S Edition 1.4 TFSI 5p S-tronic",
+        "marca": "AUDI",
+        "key": "a1-7727",
+        "id": "7727",
+        "fipe_name": "A1 Sport. S Edition 1.4 TFSI 5p S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 Sportback 1.4 TFSI 185cv 5p S-tronic",
+        "marca": "AUDI",
+        "key": "a1-6201",
+        "id": "6201",
+        "fipe_name": "A1 Sportback 1.4 TFSI 185cv 5p S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 Sportback 1.4 TFSI 5p S-tronic",
+        "marca": "AUDI",
+        "key": "a1-6200",
+        "id": "6200",
+        "fipe_name": "A1 Sportback 1.4 TFSI 5p S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A1 Sportback 1.8 TFSI 192cv 5p S-tronic",
+        "marca": "AUDI",
+        "key": "a1-7418",
+        "id": "7418",
+        "fipe_name": "A1 Sportback 1.8 TFSI 192cv 5p S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.6 3p",
+        "marca": "AUDI",
+        "key": "a3-52",
+        "id": "52",
+        "fipe_name": "A3 1.6 3p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.6 3p Aut.",
+        "marca": "AUDI",
+        "key": "a3-53",
+        "id": "53",
+        "fipe_name": "A3 1.6 3p Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.6 5p",
+        "marca": "AUDI",
+        "key": "a3-54",
+        "id": "54",
+        "fipe_name": "A3 1.6 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.6 5p Aut.",
+        "marca": "AUDI",
+        "key": "a3-55",
+        "id": "55",
+        "fipe_name": "A3 1.6 5p Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.6 8V 102cv 3p",
+        "marca": "AUDI",
+        "key": "a3-4154",
+        "id": "4154",
+        "fipe_name": "A3 1.6 8V 102cv 3p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 3p",
+        "marca": "AUDI",
+        "key": "a3-56",
+        "id": "56",
+        "fipe_name": "A3 1.8 3p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 3p Aut.",
+        "marca": "AUDI",
+        "key": "a3-57",
+        "id": "57",
+        "fipe_name": "A3 1.8 3p Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 5p Aut.",
+        "marca": "AUDI",
+        "key": "a3-58",
+        "id": "58",
+        "fipe_name": "A3 1.8 5p Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 5p Mec.",
+        "marca": "AUDI",
+        "key": "a3-59",
+        "id": "59",
+        "fipe_name": "A3 1.8 5p Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 180cv 3p Aut./ Tip.",
+        "marca": "AUDI",
+        "key": "a3-60",
+        "id": "60",
+        "fipe_name": "A3 1.8 Turbo 180cv 3p Aut./ Tip."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 180cv 3p Mec.",
+        "marca": "AUDI",
+        "key": "a3-61",
+        "id": "61",
+        "fipe_name": "A3 1.8 Turbo 180cv 3p Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 180cv 5p Aut./ Tip.",
+        "marca": "AUDI",
+        "key": "a3-62",
+        "id": "62",
+        "fipe_name": "A3 1.8 Turbo 180cv 5p Aut./ Tip."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 180cv 5p Mec.",
+        "marca": "AUDI",
+        "key": "a3-63",
+        "id": "63",
+        "fipe_name": "A3 1.8 Turbo 180cv 5p Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 3p Aut.",
+        "marca": "AUDI",
+        "key": "a3-64",
+        "id": "64",
+        "fipe_name": "A3 1.8 Turbo 3p Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 3p Mec.",
+        "marca": "AUDI",
+        "key": "a3-65",
+        "id": "65",
+        "fipe_name": "A3 1.8 Turbo 3p Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 5p Aut.",
+        "marca": "AUDI",
+        "key": "a3-66",
+        "id": "66",
+        "fipe_name": "A3 1.8 Turbo 5p Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 1.8 Turbo 5p Mec.",
+        "marca": "AUDI",
+        "key": "a3-67",
+        "id": "67",
+        "fipe_name": "A3 1.8 Turbo 5p Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Cabriolet 1.8 16V TFSI 180cv S-tronic",
+        "marca": "AUDI",
+        "key": "a3-6950",
+        "id": "6950",
+        "fipe_name": "A3 Cabriolet 1.8 16V TFSI 180cv S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Cabriolet Ambition 2.0 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-8227",
+        "id": "8227",
+        "fipe_name": "A3 Cabriolet Ambition 2.0 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Cabriolet Perfor. 2.0 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-8559",
+        "id": "8559",
+        "fipe_name": "A3 Cabriolet Perfor. 2.0 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sed. Ambition 2.0 TSFI 220cv S-tronic",
+        "marca": "AUDI",
+        "key": "a3-7419",
+        "id": "7419",
+        "fipe_name": "A3 Sed. Ambition 2.0 TSFI 220cv S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sed. P.Plus 1.4 25Anos Flex TFSI Tip.",
+        "marca": "AUDI",
+        "key": "a3-8768",
+        "id": "8768",
+        "fipe_name": "A3 Sed. P.Plus 1.4 25Anos Flex TFSI Tip."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sed.1.8/1.8 Ambit.16V TB FSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-6689",
+        "id": "6689",
+        "fipe_name": "A3 Sed.1.8/1.8 Ambit.16V TB FSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sedan 1.4 TFSI Flex Tiptronic 4p",
+        "marca": "AUDI",
+        "key": "a3-7391",
+        "id": "7391",
+        "fipe_name": "A3 Sedan 1.4 TFSI Flex Tiptronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-6768",
+        "id": "6768",
+        "fipe_name": "A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sedan Performance 2.0 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-8560",
+        "id": "8560",
+        "fipe_name": "A3 Sedan Performance 2.0 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sedan Prestige 1.4 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-8561",
+        "id": "8561",
+        "fipe_name": "A3 Sedan Prestige 1.4 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sedan Prestige Plus 1.4 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-8562",
+        "id": "8562",
+        "fipe_name": "A3 Sedan Prestige Plus 1.4 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sport 1.8 16V TFSI S-tronic 3p",
+        "marca": "AUDI",
+        "key": "a3-6461",
+        "id": "6461",
+        "fipe_name": "A3 Sport 1.8 16V TFSI S-tronic 3p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sport 2.0 16V TFSI S- tronic",
+        "marca": "AUDI",
+        "key": "a3-5125",
+        "id": "5125",
+        "fipe_name": "A3 Sport 2.0 16V TFSI S- tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sportb. Prestige Plus 1.4 TFSI S-tron",
+        "marca": "AUDI",
+        "key": "a3-8563",
+        "id": "8563",
+        "fipe_name": "A3 Sportb. Prestige Plus 1.4 TFSI S-tron"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sportback 1.4 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-6510",
+        "id": "6510",
+        "fipe_name": "A3 Sportback 1.4 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sportback 1.6 8V 102cv 5p",
+        "marca": "AUDI",
+        "key": "a3-4155",
+        "id": "4155",
+        "fipe_name": "A3 Sportback 1.6 8V 102cv 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sportback 1.8 16V TFSI S-tronic 5p",
+        "marca": "AUDI",
+        "key": "a3-6511",
+        "id": "6511",
+        "fipe_name": "A3 Sportback 1.8 16V TFSI S-tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sportback 2.0 16V TFSI Mec.",
+        "marca": "AUDI",
+        "key": "a3-4156",
+        "id": "4156",
+        "fipe_name": "A3 Sportback 2.0 16V TFSI Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A3 Sportback 2.0 16V TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a3-4157",
+        "id": "4157",
+        "fipe_name": "A3 Sportback 2.0 16V TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8  Aut.",
+        "marca": "AUDI",
+        "key": "a4-68",
+        "id": "68",
+        "fipe_name": "A4 1.8  Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8  Mec.",
+        "marca": "AUDI",
+        "key": "a4-69",
+        "id": "69",
+        "fipe_name": "A4 1.8  Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8 Avant Aut.",
+        "marca": "AUDI",
+        "key": "a4-70",
+        "id": "70",
+        "fipe_name": "A4 1.8 Avant Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8 Avant Mec.",
+        "marca": "AUDI",
+        "key": "a4-71",
+        "id": "71",
+        "fipe_name": "A4 1.8 Avant Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8 Avant Turbo Mec.",
+        "marca": "AUDI",
+        "key": "a4-72",
+        "id": "72",
+        "fipe_name": "A4 1.8 Avant Turbo Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8 Avant Turbo Tip./ Multitronic",
+        "marca": "AUDI",
+        "key": "a4-73",
+        "id": "73",
+        "fipe_name": "A4 1.8 Avant Turbo Tip./ Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8 Tip./ Multitronic Turbo",
+        "marca": "AUDI",
+        "key": "a4-74",
+        "id": "74",
+        "fipe_name": "A4 1.8 Tip./ Multitronic Turbo"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 1.8 Turbo",
+        "marca": "AUDI",
+        "key": "a4-75",
+        "id": "75",
+        "fipe_name": "A4 1.8 Turbo"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 16V TFSI 183/180cv Multitronic",
+        "marca": "AUDI",
+        "key": "a4-4843",
+        "id": "4843",
+        "fipe_name": "A4 2.0 16V TFSI 183/180cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 16V TFSI 200/ 214cv Multitronic",
+        "marca": "AUDI",
+        "key": "a4-4182",
+        "id": "4182",
+        "fipe_name": "A4 2.0 16V TFSI 200/ 214cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 16V TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "a4-6144",
+        "id": "6144",
+        "fipe_name": "A4 2.0 16V TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 20V 130cv Multitronic 4p",
+        "marca": "AUDI",
+        "key": "a4-76",
+        "id": "76",
+        "fipe_name": "A4 2.0 20V 130cv Multitronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 Avant 16V TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "a4-6145",
+        "id": "6145",
+        "fipe_name": "A4 2.0 Avant 16V TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 Avant Ambie. 2.0 16V TFSi S tron.",
+        "marca": "AUDI",
+        "key": "a4-7750",
+        "id": "7750",
+        "fipe_name": "A4 2.0 Avant Ambie. 2.0 16V TFSi S tron."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 Avant TFSI 183/180cv Multitroni",
+        "marca": "AUDI",
+        "key": "a4-4844",
+        "id": "4844",
+        "fipe_name": "A4 2.0 Avant TFSI 183/180cv Multitroni"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.0 Avant TFSI 200/214cv Multitron.",
+        "marca": "AUDI",
+        "key": "a4-4183",
+        "id": "4183",
+        "fipe_name": "A4 2.0 Avant TFSI 200/214cv Multitron."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 30V Avant Mec.",
+        "marca": "AUDI",
+        "key": "a4-77",
+        "id": "77",
+        "fipe_name": "A4 2.4 30V Avant Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 30V Avant Tip./Multitronic",
+        "marca": "AUDI",
+        "key": "a4-78",
+        "id": "78",
+        "fipe_name": "A4 2.4 30V Avant Tip./Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 30V Mec.",
+        "marca": "AUDI",
+        "key": "a4-79",
+        "id": "79",
+        "fipe_name": "A4 2.4 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 30V Tip./Multitronic",
+        "marca": "AUDI",
+        "key": "a4-80",
+        "id": "80",
+        "fipe_name": "A4 2.4 30V Tip./Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 Avant V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a4-81",
+        "id": "81",
+        "fipe_name": "A4 2.4 Avant V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 Avant V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-82",
+        "id": "82",
+        "fipe_name": "A4 2.4 Avant V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a4-83",
+        "id": "83",
+        "fipe_name": "A4 2.4 V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.4 V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-84",
+        "id": "84",
+        "fipe_name": "A4 2.4 V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8",
+        "marca": "AUDI",
+        "key": "a4-85",
+        "id": "85",
+        "fipe_name": "A4 2.8"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 30V  Tiptronic/ Aut.",
+        "marca": "AUDI",
+        "key": "a4-86",
+        "id": "86",
+        "fipe_name": "A4 2.8 30V  Tiptronic/ Aut."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 30V Mec.",
+        "marca": "AUDI",
+        "key": "a4-87",
+        "id": "87",
+        "fipe_name": "A4 2.8 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 Avant V6 12V",
+        "marca": "AUDI",
+        "key": "a4-88",
+        "id": "88",
+        "fipe_name": "A4 2.8 Avant V6 12V"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 Avant V6 30V Mec.",
+        "marca": "AUDI",
+        "key": "a4-89",
+        "id": "89",
+        "fipe_name": "A4 2.8 Avant V6 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 Avant V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a4-90",
+        "id": "90",
+        "fipe_name": "A4 2.8 Avant V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 Avant V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-91",
+        "id": "91",
+        "fipe_name": "A4 2.8 Avant V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 Avant V6 30V Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-92",
+        "id": "92",
+        "fipe_name": "A4 2.8 Avant V6 30V Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 V6 30V  Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-93",
+        "id": "93",
+        "fipe_name": "A4 2.8 V6 30V  Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 2.8 V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a4-94",
+        "id": "94",
+        "fipe_name": "A4 2.8 V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.0 30V 218cv Multitronic 4p",
+        "marca": "AUDI",
+        "key": "a4-95",
+        "id": "95",
+        "fipe_name": "A4 3.0 30V 218cv Multitronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.0 30V 218cv Quattro Tiptron./Aut 4p",
+        "marca": "AUDI",
+        "key": "a4-96",
+        "id": "96",
+        "fipe_name": "A4 3.0 30V 218cv Quattro Tiptron./Aut 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.0 Avant 30V 218cv Multitronic 5p",
+        "marca": "AUDI",
+        "key": "a4-97",
+        "id": "97",
+        "fipe_name": "A4 3.0 Avant 30V 218cv Multitronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.0 Avant 30V 218cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-98",
+        "id": "98",
+        "fipe_name": "A4 3.0 Avant 30V 218cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.0 Cabriolet 30V 218cv Multitronic",
+        "marca": "AUDI",
+        "key": "a4-99",
+        "id": "99",
+        "fipe_name": "A4 3.0 Cabriolet 30V 218cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.2 FSI 24V 255cv Multitronic",
+        "marca": "AUDI",
+        "key": "a4-4286",
+        "id": "4286",
+        "fipe_name": "A4 3.2 FSI 24V 255cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.2 FSI 24V 269cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a4-4731",
+        "id": "4731",
+        "fipe_name": "A4 3.2 FSI 24V 269cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.2 FSI Avant 24V 255cv Multitronic",
+        "marca": "AUDI",
+        "key": "a4-4287",
+        "id": "4287",
+        "fipe_name": "A4 3.2 FSI Avant 24V 255cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.2 FSI Avant 24V Quattro S Tronic",
+        "marca": "AUDI",
+        "key": "a4-4935",
+        "id": "4935",
+        "fipe_name": "A4 3.2 FSI Avant 24V Quattro S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 3.2 FSI Cabriolet 24V 255cv Multitron",
+        "marca": "AUDI",
+        "key": "a4-4288",
+        "id": "4288",
+        "fipe_name": "A4 3.2 FSI Cabriolet 24V 255cv Multitron"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Ambiente 2.0 TFSI 190cv S tronic",
+        "marca": "AUDI",
+        "key": "a4-7717",
+        "id": "7717",
+        "fipe_name": "A4 Ambiente 2.0 TFSI 190cv S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Ambition 2.0 TFSI Quattro S tronic",
+        "marca": "AUDI",
+        "key": "a4-7894",
+        "id": "7894",
+        "fipe_name": "A4 Ambition 2.0 TFSI Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Attraction 2.0 TFSI 190cv S tronic",
+        "marca": "AUDI",
+        "key": "a4-7656",
+        "id": "7656",
+        "fipe_name": "A4 Attraction 2.0 TFSI 190cv S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Avant Lim. Ed. 2.0 TFSI S tronic",
+        "marca": "AUDI",
+        "key": "a4-8228",
+        "id": "8228",
+        "fipe_name": "A4 Avant Lim. Ed. 2.0 TFSI S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Avant Prest. Plus 2.0 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a4-8769",
+        "id": "8769",
+        "fipe_name": "A4 Avant Prest. Plus 2.0 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Launch Edition 2.0 TFSI 190cv S troni",
+        "marca": "AUDI",
+        "key": "a4-7537",
+        "id": "7537",
+        "fipe_name": "A4 Launch Edition 2.0 TFSI 190cv S troni"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Limited Edition 2.0 TFSI S tronic",
+        "marca": "AUDI",
+        "key": "a4-8229",
+        "id": "8229",
+        "fipe_name": "A4 Limited Edition 2.0 TFSI S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Prestige 2.0 TFSI 190cv S-tronic",
+        "marca": "AUDI",
+        "key": "a4-8770",
+        "id": "8770",
+        "fipe_name": "A4 Prestige 2.0 TFSI 190cv S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A4 Prestige Plus 2.0 TFSI 190cv S tronic",
+        "marca": "AUDI",
+        "key": "a4-8771",
+        "id": "8771",
+        "fipe_name": "A4 Prestige Plus 2.0 TFSI 190cv S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 3.2 FSI 24V 269cv Multitronic",
+        "marca": "AUDI",
+        "key": "a5-4798",
+        "id": "4798",
+        "fipe_name": "A5 3.2 FSI 24V 269cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 3.2 FSI V6 24V 269cv Quattro Tiptroni",
+        "marca": "AUDI",
+        "key": "a5-5126",
+        "id": "5126",
+        "fipe_name": "A5 3.2 FSI V6 24V 269cv Quattro Tiptroni"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Ambiente Sportb. 2.0 TFSI S tonic",
+        "marca": "AUDI",
+        "key": "a5-7999",
+        "id": "7999",
+        "fipe_name": "A5 Ambiente Sportb. 2.0 TFSI S tonic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Ambit. Plus Sport. 2.0 TFSI S tronic",
+        "marca": "AUDI",
+        "key": "a5-8000",
+        "id": "8000",
+        "fipe_name": "A5 Ambit. Plus Sport. 2.0 TFSI S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Ambit. Sport. 2.0 TFSI S tronic",
+        "marca": "AUDI",
+        "key": "a5-8001",
+        "id": "8001",
+        "fipe_name": "A5 Ambit. Sport. 2.0 TFSI S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Attraction Sportb. 2.0 TFSI S tronic",
+        "marca": "AUDI",
+        "key": "a5-8002",
+        "id": "8002",
+        "fipe_name": "A5 Attraction Sportb. 2.0 TFSI S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Cabriolet 2.0 TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "a5-6082",
+        "id": "6082",
+        "fipe_name": "A5 Cabriolet 2.0 TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Coup\u00ea 2.0 TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "a5-6083",
+        "id": "6083",
+        "fipe_name": "A5 Coup\u00ea 2.0 TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportb. 2.0 16V TFSI Quat. S-tronic",
+        "marca": "AUDI",
+        "key": "a5-6084",
+        "id": "6084",
+        "fipe_name": "A5 Sportb. 2.0 16V TFSI Quat. S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportb. Perf. 2.0 TFSI Quat. S-tronic",
+        "marca": "AUDI",
+        "key": "a5-8564",
+        "id": "8564",
+        "fipe_name": "A5 Sportb. Perf. 2.0 TFSI Quat. S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportb. Prestige 2.0 16V TFSI S-troni",
+        "marca": "AUDI",
+        "key": "a5-8565",
+        "id": "8565",
+        "fipe_name": "A5 Sportb. Prestige 2.0 16V TFSI S-troni"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportb.Perf.B. 2.0 TFSI Quat. S-troni",
+        "marca": "AUDI",
+        "key": "a5-8566",
+        "id": "8566",
+        "fipe_name": "A5 Sportb.Perf.B. 2.0 TFSI Quat. S-troni"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportb.Prestige Plus 2.0 TFSI S-tronc",
+        "marca": "AUDI",
+        "key": "a5-8567",
+        "id": "8567",
+        "fipe_name": "A5 Sportb.Prestige Plus 2.0 TFSI S-tronc"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportback 1.8 TFSI 170cv Multi.",
+        "marca": "AUDI",
+        "key": "a5-7022",
+        "id": "7022",
+        "fipe_name": "A5 Sportback 1.8 TFSI 170cv Multi."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportback 2.0 16V TFSI 180cv Multi.",
+        "marca": "AUDI",
+        "key": "a5-6043",
+        "id": "6043",
+        "fipe_name": "A5 Sportback 2.0 16V TFSI 180cv Multi."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportback 2.0 16V TFSI 211cv Multi.",
+        "marca": "AUDI",
+        "key": "a5-5234",
+        "id": "5234",
+        "fipe_name": "A5 Sportback 2.0 16V TFSI 211cv Multi."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A5 Sportback S-Line 2.0 TFSI S-tronic",
+        "marca": "AUDI",
+        "key": "a5-8772",
+        "id": "8772",
+        "fipe_name": "A5 Sportback S-Line 2.0 TFSI S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.0 TFSI 252cv S tronic 4p",
+        "marca": "AUDI",
+        "key": "a6-7254",
+        "id": "7254",
+        "fipe_name": "A6 2.0 TFSI 252cv S tronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 30V Mec",
+        "marca": "AUDI",
+        "key": "a6-100",
+        "id": "100",
+        "fipe_name": "A6 2.4 30V Mec"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 30V Tip./Multitronic",
+        "marca": "AUDI",
+        "key": "a6-101",
+        "id": "101",
+        "fipe_name": "A6 2.4 30V Tip./Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 Avant 30V Mec.",
+        "marca": "AUDI",
+        "key": "a6-102",
+        "id": "102",
+        "fipe_name": "A6 2.4 Avant 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 Avant 30V Tip./ Multitronic",
+        "marca": "AUDI",
+        "key": "a6-103",
+        "id": "103",
+        "fipe_name": "A6 2.4 Avant 30V Tip./ Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 Avant V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a6-104",
+        "id": "104",
+        "fipe_name": "A6 2.4 Avant V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 Avant V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-105",
+        "id": "105",
+        "fipe_name": "A6 2.4 Avant V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 V6 30V Quattro Mec",
+        "marca": "AUDI",
+        "key": "a6-106",
+        "id": "106",
+        "fipe_name": "A6 2.4 V6 30V Quattro Mec"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.4 V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-107",
+        "id": "107",
+        "fipe_name": "A6 2.4 V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.7 30V Avant Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-108",
+        "id": "108",
+        "fipe_name": "A6 2.7 30V Avant Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.7 30V Mec.",
+        "marca": "AUDI",
+        "key": "a6-109",
+        "id": "109",
+        "fipe_name": "A6 2.7 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.7 Avant Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-110",
+        "id": "110",
+        "fipe_name": "A6 2.7 Avant Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.7 Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-111",
+        "id": "111",
+        "fipe_name": "A6 2.7 Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8",
+        "marca": "AUDI",
+        "key": "a6-112",
+        "id": "112",
+        "fipe_name": "A6 2.8"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 30V Mec.",
+        "marca": "AUDI",
+        "key": "a6-113",
+        "id": "113",
+        "fipe_name": "A6 2.8 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 30V Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-114",
+        "id": "114",
+        "fipe_name": "A6 2.8 30V Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 Avant",
+        "marca": "AUDI",
+        "key": "a6-115",
+        "id": "115",
+        "fipe_name": "A6 2.8 Avant"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 Avant 30V Mec.",
+        "marca": "AUDI",
+        "key": "a6-116",
+        "id": "116",
+        "fipe_name": "A6 2.8 Avant 30V Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 Avant 30V Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-117",
+        "id": "117",
+        "fipe_name": "A6 2.8 Avant 30V Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 Avant V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a6-118",
+        "id": "118",
+        "fipe_name": "A6 2.8 Avant V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 Avant V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-119",
+        "id": "119",
+        "fipe_name": "A6 2.8 Avant V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 V6 30V Quattro Mec.",
+        "marca": "AUDI",
+        "key": "a6-120",
+        "id": "120",
+        "fipe_name": "A6 2.8 V6 30V Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 2.8 V6 30V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-121",
+        "id": "121",
+        "fipe_name": "A6 2.8 V6 30V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.0 Avant V6 30V 218cv Multitronic 5p",
+        "marca": "AUDI",
+        "key": "a6-122",
+        "id": "122",
+        "fipe_name": "A6 3.0 Avant V6 30V 218cv Multitronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p",
+        "marca": "AUDI",
+        "key": "a6-5374",
+        "id": "5374",
+        "fipe_name": "A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.0 Avant.TFSI V6 Quattro S tronic 5p",
+        "marca": "AUDI",
+        "key": "a6-6413",
+        "id": "6413",
+        "fipe_name": "A6 3.0 Avant.TFSI V6 Quattro S tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.0 TB FSI V6 Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-4958",
+        "id": "4958",
+        "fipe_name": "A6 3.0 TB FSI V6 Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.0 TFSI V6 Quattro S tronic 4p",
+        "marca": "AUDI",
+        "key": "a6-6414",
+        "id": "6414",
+        "fipe_name": "A6 3.0 TFSI V6 Quattro S tronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.0 V6 30V 218cv Multitronic 4p",
+        "marca": "AUDI",
+        "key": "a6-123",
+        "id": "123",
+        "fipe_name": "A6 3.0 V6 30V 218cv Multitronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 3.2 FSI 24V 255cv Multitronic",
+        "marca": "AUDI",
+        "key": "a6-4526",
+        "id": "4526",
+        "fipe_name": "A6 3.2 FSI 24V 255cv Multitronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 4.2 Avant Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-124",
+        "id": "124",
+        "fipe_name": "A6 4.2 Avant Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 4.2 Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a6-125",
+        "id": "125",
+        "fipe_name": "A6 4.2 Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A6 Allroad 3.0 TFSI V6 Quattro S tronic",
+        "marca": "AUDI",
+        "key": "a6-6462",
+        "id": "6462",
+        "fipe_name": "A6 Allroad 3.0 TFSI V6 Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A7 Sportback 2.0 TFSI S Tronic",
+        "marca": "AUDI",
+        "key": "a7-7447",
+        "id": "7447",
+        "fipe_name": "A7 Sportback 2.0 TFSI S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A7 Sportback 3.0 TFSI Quattro S Tronic",
+        "marca": "AUDI",
+        "key": "a7-5549",
+        "id": "5549",
+        "fipe_name": "A7 Sportback 3.0 TFSI Quattro S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A8 3.0 TFSI 310cv Quattro Tiptronic 4p",
+        "marca": "AUDI",
+        "key": "a8-7127",
+        "id": "7127",
+        "fipe_name": "A8 3.0 TFSI 310cv Quattro Tiptronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A8 4.0 TFSI Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a8-6631",
+        "id": "6631",
+        "fipe_name": "A8 4.0 TFSI Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A8 4.2 Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a8-126",
+        "id": "126",
+        "fipe_name": "A8 4.2 Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A8 4.2 V8 32V Tiptronic",
+        "marca": "AUDI",
+        "key": "a8-127",
+        "id": "127",
+        "fipe_name": "A8 4.2 V8 32V Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A8 6.0 W12 48V 450cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a8-3928",
+        "id": "3928",
+        "fipe_name": "A8 6.0 W12 48V 450cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "A8 6.3 W12 48V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "a8-5717",
+        "id": "5717",
+        "fipe_name": "A8 6.3 W12 48V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Allroad 2.7 30V Quattro Turbo Tiptronic",
+        "marca": "AUDI",
+        "key": "allroad-128",
+        "id": "128",
+        "fipe_name": "Allroad 2.7 30V Quattro Turbo Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Avant RS2",
+        "marca": "AUDI",
+        "key": "avant-129",
+        "id": "129",
+        "fipe_name": "Avant RS2"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q3 1.4 TFSI/TFSI Flex S-tronic 5p",
+        "marca": "AUDI",
+        "key": "q3-7255",
+        "id": "7255",
+        "fipe_name": "Q3 1.4 TFSI/TFSI Flex S-tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p",
+        "marca": "AUDI",
+        "key": "q3-6044",
+        "id": "6044",
+        "fipe_name": "Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p",
+        "marca": "AUDI",
+        "key": "q3-6045",
+        "id": "6045",
+        "fipe_name": "Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q3 Black Ed. 1.4 TFSI Flex S-tronic 5p",
+        "marca": "AUDI",
+        "key": "q3-8230",
+        "id": "8230",
+        "fipe_name": "Q3 Black Ed. 1.4 TFSI Flex S-tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q3 Prestige 1.4 TFSI Flex S-tronic",
+        "marca": "AUDI",
+        "key": "q3-8568",
+        "id": "8568",
+        "fipe_name": "Q3 Prestige 1.4 TFSI Flex S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q3 Prestige Plus 1.4 TFSI Flex S-tronic",
+        "marca": "AUDI",
+        "key": "q3-8569",
+        "id": "8569",
+        "fipe_name": "Q3 Prestige Plus 1.4 TFSI Flex S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 2.0 16V TFSI 225cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "q5-6573",
+        "id": "6573",
+        "fipe_name": "Q5 2.0 16V TFSI 225cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 2.0 16V TFSI Quattro S Tronic",
+        "marca": "AUDI",
+        "key": "q5-4936",
+        "id": "4936",
+        "fipe_name": "Q5 2.0 16V TFSI Quattro S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 2.0 TFSI Quattro S tronic (Blindado)",
+        "marca": "AUDI",
+        "key": "q5-8231",
+        "id": "8231",
+        "fipe_name": "Q5 2.0 TFSI Quattro S tronic (Blindado)"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 3.0 V6 TFSI 272cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "q5-6486",
+        "id": "6486",
+        "fipe_name": "Q5 3.0 V6 TFSI 272cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 3.2 FSI V6 Quattro S Tronic",
+        "marca": "AUDI",
+        "key": "q5-4959",
+        "id": "4959",
+        "fipe_name": "Q5 3.2 FSI V6 Quattro S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 Ambiente 2.0 TFSI Quattro S tronic",
+        "marca": "AUDI",
+        "key": "q5-8036",
+        "id": "8036",
+        "fipe_name": "Q5 Ambiente 2.0 TFSI Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 Ambition 2.0 TFSI Quattro S tronic",
+        "marca": "AUDI",
+        "key": "q5-8037",
+        "id": "8037",
+        "fipe_name": "Q5 Ambition 2.0 TFSI Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 Attraction 2.0 TFSI Quattro S tronic",
+        "marca": "AUDI",
+        "key": "q5-8038",
+        "id": "8038",
+        "fipe_name": "Q5 Attraction 2.0 TFSI Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 Black 2.0 TFSI Quattro S tronic",
+        "marca": "AUDI",
+        "key": "q5-8583",
+        "id": "8583",
+        "fipe_name": "Q5 Black 2.0 TFSI Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 Prestige 2.0 TFSI Quattro S tronic",
+        "marca": "AUDI",
+        "key": "q5-8584",
+        "id": "8584",
+        "fipe_name": "Q5 Prestige 2.0 TFSI Quattro S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 Prestige Plus 2.0 TFSI Quat. S tronic",
+        "marca": "AUDI",
+        "key": "q5-8585",
+        "id": "8585",
+        "fipe_name": "Q5 Prestige Plus 2.0 TFSI Quat. S tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q5 S-Line 2.0 TFSI Quattro S-tronic",
+        "marca": "AUDI",
+        "key": "q5-8773",
+        "id": "8773",
+        "fipe_name": "Q5 S-Line 2.0 TFSI Quattro S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q7 3.0 V6 TDI Quat.Tip. 5p Die./Perfor.",
+        "marca": "AUDI",
+        "key": "q7-7917",
+        "id": "7917",
+        "fipe_name": "Q7 3.0 V6 TDI Quat.Tip. 5p Die./Perfor."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q7 3.0 V6 TFSI  Quat.Tip.5p/ Performance",
+        "marca": "AUDI",
+        "key": "q7-5445",
+        "id": "5445",
+        "fipe_name": "Q7 3.0 V6 TFSI  Quat.Tip.5p/ Performance"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q7 3.6 V6 284cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "q7-4694",
+        "id": "4694",
+        "fipe_name": "Q7 3.6 V6 284cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q7 4.2 V8 40V 350cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "q7-4184",
+        "id": "4184",
+        "fipe_name": "Q7 4.2 V8 40V 350cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q7 Perf.Black 3.0 TDI Quat.Tip.5p Dies.",
+        "marca": "AUDI",
+        "key": "q7-8658",
+        "id": "8658",
+        "fipe_name": "Q7 Perf.Black 3.0 TDI Quat.Tip.5p Dies."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q7 PREF. Black 3.0 V6 TFSI Quat.Tip. 5p",
+        "marca": "AUDI",
+        "key": "q7-8659",
+        "id": "8659",
+        "fipe_name": "Q7 PREF. Black 3.0 V6 TFSI Quat.Tip. 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q8 Perf.Bl. 3.0 TFSI Coupe Quat. S-tron.",
+        "marca": "AUDI",
+        "key": "q8-8774",
+        "id": "8774",
+        "fipe_name": "Q8 Perf.Bl. 3.0 TFSI Coupe Quat. S-tron."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "Q8 Perform. 3.0 TFSI Coupe Quat. S-tron.",
+        "marca": "AUDI",
+        "key": "q8-8775",
+        "id": "8775",
+        "fipe_name": "Q8 Perform. 3.0 TFSI Coupe Quat. S-tron."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "R8 4.2 V8 426cv Quattro R-tronic",
+        "marca": "AUDI",
+        "key": "r8-5235",
+        "id": "5235",
+        "fipe_name": "R8 4.2 V8 426cv Quattro R-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "R8 5.2 V10 Quattro R-tronic/S-tronic",
+        "marca": "AUDI",
+        "key": "r8-5236",
+        "id": "5236",
+        "fipe_name": "R8 5.2 V10 Quattro R-tronic/S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "R8 GT 5.2 V10 560cv Quattro R-tronic",
+        "marca": "AUDI",
+        "key": "r8-5974",
+        "id": "5974",
+        "fipe_name": "R8 GT 5.2 V10 560cv Quattro R-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "R8 Spyder 5.2 Quattro R-tronic/S-tronic",
+        "marca": "AUDI",
+        "key": "r8-5550",
+        "id": "5550",
+        "fipe_name": "R8 Spyder 5.2 Quattro R-tronic/S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS Q3 2.5 TFSI Quattro S-tronic 5p",
+        "marca": "AUDI",
+        "key": "rs-6865",
+        "id": "6865",
+        "fipe_name": "RS Q3 2.5 TFSI Quattro S-tronic 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS3 Sedan 2.5 TFSI Quattro S-tronic",
+        "marca": "AUDI",
+        "key": "rs3-8175",
+        "id": "8175",
+        "fipe_name": "RS3 Sedan 2.5 TFSI Quattro S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS3 Sportback 2.5 TFSI Quattro S-tronic",
+        "marca": "AUDI",
+        "key": "rs3-5922",
+        "id": "5922",
+        "fipe_name": "RS3 Sportback 2.5 TFSI Quattro S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS4 2.7 Avant V6 30V BI-TB Quattro 380cv",
+        "marca": "AUDI",
+        "key": "rs4-130",
+        "id": "130",
+        "fipe_name": "RS4 2.7 Avant V6 30V BI-TB Quattro 380cv"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS4 2.9 Avant V6 TFSI Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "rs4-8628",
+        "id": "8628",
+        "fipe_name": "RS4 2.9 Avant V6 TFSI Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS4 4.2 Avant 32V FSI Quattro S-tronic",
+        "marca": "AUDI",
+        "key": "rs4-6487",
+        "id": "6487",
+        "fipe_name": "RS4 4.2 Avant 32V FSI Quattro S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p",
+        "marca": "AUDI",
+        "key": "rs5-5410",
+        "id": "5410",
+        "fipe_name": "RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS5 Coup\u00ea 2.9 V6 TFSI Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "rs5-8629",
+        "id": "8629",
+        "fipe_name": "RS5 Coup\u00ea 2.9 V6 TFSI Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p",
+        "marca": "AUDI",
+        "key": "rs6-6690",
+        "id": "6690",
+        "fipe_name": "RS6 4.0 Avant TFSI BI-TB Quattro Tip. 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS6 4.2 450cv BI-TB Quattro Tiptronic 4p",
+        "marca": "AUDI",
+        "key": "rs6-131",
+        "id": "131",
+        "fipe_name": "RS6 4.2 450cv BI-TB Quattro Tiptronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p",
+        "marca": "AUDI",
+        "key": "rs6-132",
+        "id": "132",
+        "fipe_name": "RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.",
+        "marca": "AUDI",
+        "key": "rs6-5335",
+        "id": "5335",
+        "fipe_name": "RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS6 5.0 FSI V10 Bi-TB Quattro Tip.",
+        "marca": "AUDI",
+        "key": "rs6-5336",
+        "id": "5336",
+        "fipe_name": "RS6 5.0 FSI V10 Bi-TB Quattro Tip."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "rs7-6883",
+        "id": "6883",
+        "fipe_name": "RS7 Sportback 4.0 TFSI Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "s-6769",
+        "id": "6769",
+        "fipe_name": "S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S3 1.8 225cv Turbo Quattro",
+        "marca": "AUDI",
+        "key": "s3-133",
+        "id": "133",
+        "fipe_name": "S3 1.8 225cv Turbo Quattro"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S3 Sedan 2.0 TFSI Quattro 286cv S-tronic",
+        "marca": "AUDI",
+        "key": "s3-6951",
+        "id": "6951",
+        "fipe_name": "S3 Sedan 2.0 TFSI Quattro 286cv S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S3 Sportback 2.0 TFSI Quattro S Tronic",
+        "marca": "AUDI",
+        "key": "s3-5127",
+        "id": "5127",
+        "fipe_name": "S3 Sportback 2.0 TFSI Quattro S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S4 2.7 Avant Turbo Quattro",
+        "marca": "AUDI",
+        "key": "s4-134",
+        "id": "134",
+        "fipe_name": "S4 2.7 Avant Turbo Quattro"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S4 2.7 Turbo Quattro Mec.",
+        "marca": "AUDI",
+        "key": "s4-135",
+        "id": "135",
+        "fipe_name": "S4 2.7 Turbo Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S4 3.0 Avant TFSI V6 24V Quattro Stronic",
+        "marca": "AUDI",
+        "key": "s4-6085",
+        "id": "6085",
+        "fipe_name": "S4 3.0 Avant TFSI V6 24V Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S4 3.0 TFSI V6 24V Quattro Stronic",
+        "marca": "AUDI",
+        "key": "s4-6086",
+        "id": "6086",
+        "fipe_name": "S4 3.0 TFSI V6 24V Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S4 4.2 Avant V8 40V 344cv Quattro Tipt.",
+        "marca": "AUDI",
+        "key": "s4-136",
+        "id": "136",
+        "fipe_name": "S4 4.2 Avant V8 40V 344cv Quattro Tipt."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S4 4.2 V8 40V 344cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "s4-137",
+        "id": "137",
+        "fipe_name": "S4 4.2 V8 40V 344cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S5 Cabriolet 3.0 TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "s5-6087",
+        "id": "6087",
+        "fipe_name": "S5 Cabriolet 3.0 TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S5 Coup\u00ea 3.0 TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "s5-6088",
+        "id": "6088",
+        "fipe_name": "S5 Coup\u00ea 3.0 TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S5 Sportback 3.0 TFSI Quattro Stronic",
+        "marca": "AUDI",
+        "key": "s5-6089",
+        "id": "6089",
+        "fipe_name": "S5 Sportback 3.0 TFSI Quattro Stronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 2.2 20V TB",
+        "marca": "AUDI",
+        "key": "s6-138",
+        "id": "138",
+        "fipe_name": "S6 2.2 20V TB"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 2.2 Avant 20V TB",
+        "marca": "AUDI",
+        "key": "s6-139",
+        "id": "139",
+        "fipe_name": "S6 2.2 Avant 20V TB"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 4.0 TFSI Quattro S-Tronic 4p",
+        "marca": "AUDI",
+        "key": "s6-7302",
+        "id": "7302",
+        "fipe_name": "S6 4.0 TFSI Quattro S-Tronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 4.2 Avant V8 40V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "s6-140",
+        "id": "140",
+        "fipe_name": "S6 4.2 Avant V8 40V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 4.2 V8 40V Quattro Mec",
+        "marca": "AUDI",
+        "key": "s6-141",
+        "id": "141",
+        "fipe_name": "S6 4.2 V8 40V Quattro Mec"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 4.2 V8 40V Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "s6-142",
+        "id": "142",
+        "fipe_name": "S6 4.2 V8 40V Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 5.2 Avant FSI V10 435cv Quattro Tiptr",
+        "marca": "AUDI",
+        "key": "s6-5186",
+        "id": "5186",
+        "fipe_name": "S6 5.2 Avant FSI V10 435cv Quattro Tiptr"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 5.2 FSI V10 435cv Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "s6-5187",
+        "id": "5187",
+        "fipe_name": "S6 5.2 FSI V10 435cv Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 Plus 4.2 Avant V8 32V",
+        "marca": "AUDI",
+        "key": "s6-143",
+        "id": "143",
+        "fipe_name": "S6 Plus 4.2 Avant V8 32V"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S6 Plus 4.2 V8 32V",
+        "marca": "AUDI",
+        "key": "s6-144",
+        "id": "144",
+        "fipe_name": "S6 Plus 4.2 V8 32V"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S7 4.0 TFSI 420/450cv Quattro S-tronic",
+        "marca": "AUDI",
+        "key": "s7-6632",
+        "id": "6632",
+        "fipe_name": "S7 4.0 TFSI 420/450cv Quattro S-tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S8 4.0 TFSI Quattro Tiptronic 4p",
+        "marca": "AUDI",
+        "key": "s8-7128",
+        "id": "7128",
+        "fipe_name": "S8 4.0 TFSI Quattro Tiptronic 4p"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S8 4.2 Mec",
+        "marca": "AUDI",
+        "key": "s8-145",
+        "id": "145",
+        "fipe_name": "S8 4.2 Mec"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S8 4.2 Quattro Mec.",
+        "marca": "AUDI",
+        "key": "s8-146",
+        "id": "146",
+        "fipe_name": "S8 4.2 Quattro Mec."
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S8 4.2 Quattro Tiptronic",
+        "marca": "AUDI",
+        "key": "s8-147",
+        "id": "147",
+        "fipe_name": "S8 4.2 Quattro Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "S8 4.2 Tiptronic",
+        "marca": "AUDI",
+        "key": "s8-148",
+        "id": "148",
+        "fipe_name": "S8 4.2 Tiptronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TT 1.8 TB 180cv",
+        "marca": "AUDI",
+        "key": "tt-149",
+        "id": "149",
+        "fipe_name": "TT 1.8 TB 180cv"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TT 1.8 TB Quattro 225cv",
+        "marca": "AUDI",
+        "key": "tt-150",
+        "id": "150",
+        "fipe_name": "TT 1.8 TB Quattro 225cv"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TT 2.0 16v TFSI S-Tronic",
+        "marca": "AUDI",
+        "key": "tt-4330",
+        "id": "4330",
+        "fipe_name": "TT 2.0 16v TFSI S-Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TT Roadster 1.8 TB Quattro 225cv (Conv.)",
+        "marca": "AUDI",
+        "key": "tt-151",
+        "id": "151",
+        "fipe_name": "TT Roadster 1.8 TB Quattro 225cv (Conv.)"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TT Roadster 2.0 16v TFSI S-Tronic",
+        "marca": "AUDI",
+        "key": "tt-4431",
+        "id": "4431",
+        "fipe_name": "TT Roadster 2.0 16v TFSI S-Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TTRS 2.5 TFSI QUATTRO S Tronic",
+        "marca": "AUDI",
+        "key": "ttrs-6258",
+        "id": "6258",
+        "fipe_name": "TTRS 2.5 TFSI QUATTRO S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TTRS Roadster 2.5 TB FSI Quat. S Tronic",
+        "marca": "AUDI",
+        "key": "ttrs-6259",
+        "id": "6259",
+        "fipe_name": "TTRS Roadster 2.5 TB FSI Quat. S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TTS 2.0 TFSI QUATTRO S Tronic",
+        "marca": "AUDI",
+        "key": "tts-5128",
+        "id": "5128",
+        "fipe_name": "TTS 2.0 TFSI QUATTRO S Tronic"
+    },
+    {
+        "id_marca": 6,
+        "fipe_marca": "Audi",
+        "name": "TTS Roadster 2.0 TB FSI Quattro S Tronic",
+        "marca": "AUDI",
+        "key": "tts-5129",
+        "id": "5129",
+        "fipe_name": "TTS Roadster 2.0 TB FSI Quattro S Tronic"
+    }
+][
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "116iA 1.6 TB 16V 136cv 5p",
+        "marca": "BMW",
+        "key": "116ia-6146",
+        "id": "6146",
+        "fipe_name": "116iA 1.6 TB 16V 136cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "118iA 2.0 16V 136cv 3p",
+        "marca": "BMW",
+        "key": "118ia-5576",
+        "id": "5576",
+        "fipe_name": "118iA 2.0 16V 136cv 3p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "118iA 2.0 16V 136cv 5p",
+        "marca": "BMW",
+        "key": "118ia-4960",
+        "id": "4960",
+        "fipe_name": "118iA 2.0 16V 136cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "118iA Full 1.6 TB 16V 170cv 5p",
+        "marca": "BMW",
+        "key": "118ia-6147",
+        "id": "6147",
+        "fipe_name": "118iA Full 1.6 TB 16V 170cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "118iA/ Urban/Sport 1.6 TB 16V 170cv 5p",
+        "marca": "BMW",
+        "key": "118ia-5923",
+        "id": "5923",
+        "fipe_name": "118iA/ Urban/Sport 1.6 TB 16V 170cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "120i 2.0 16V 150cv/ 156cv 5p",
+        "marca": "BMW",
+        "key": "120i-152",
+        "id": "152",
+        "fipe_name": "120i 2.0 16V 150cv/ 156cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "120iA 2.0 16V 150cv/ 156cv 5p",
+        "marca": "BMW",
+        "key": "120ia-153",
+        "id": "153",
+        "fipe_name": "120iA 2.0 16V 150cv/ 156cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "120iA 2.0 16V 156cv 3p",
+        "marca": "BMW",
+        "key": "120ia-4700",
+        "id": "4700",
+        "fipe_name": "120iA 2.0 16V 156cv 3p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "120iA Cabrio 2.0 16V 156cv 2p",
+        "marca": "BMW",
+        "key": "120ia-4683",
+        "id": "4683",
+        "fipe_name": "120iA Cabrio 2.0 16V 156cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "120iA Sport 2.0/ActiveFlex 16V Aut.",
+        "marca": "BMW",
+        "key": "120ia-7178",
+        "id": "7178",
+        "fipe_name": "120iA Sport 2.0/ActiveFlex 16V Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "125i M Sport/Active Flex 2.0 TB Aut. 5p",
+        "marca": "BMW",
+        "key": "125i-6377",
+        "id": "6377",
+        "fipe_name": "125i M Sport/Active Flex 2.0 TB Aut. 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "130i 3.0 24V 265cv 5p",
+        "marca": "BMW",
+        "key": "130i-3879",
+        "id": "3879",
+        "fipe_name": "130i 3.0 24V 265cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "130iA 3.0 24V 265cv 3p",
+        "marca": "BMW",
+        "key": "130ia-4473",
+        "id": "4473",
+        "fipe_name": "130iA 3.0 24V 265cv 3p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "130iA 3.0 24V 265cv 5p",
+        "marca": "BMW",
+        "key": "130ia-4199",
+        "id": "4199",
+        "fipe_name": "130iA 3.0 24V 265cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "135iA Coup\u00e9 3.0 24V 306cv",
+        "marca": "BMW",
+        "key": "135ia-4961",
+        "id": "4961",
+        "fipe_name": "135iA Coup\u00e9 3.0 24V 306cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "220i Tourer Active Flex 2.0 TB Aut.",
+        "marca": "BMW",
+        "key": "220i-7448",
+        "id": "7448",
+        "fipe_name": "220i Tourer Active Flex 2.0 TB Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "225i Active Tourer Sport 2.0 TB Aut.",
+        "marca": "BMW",
+        "key": "225i-7129",
+        "id": "7129",
+        "fipe_name": "225i Active Tourer Sport 2.0 TB Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "316 (todas)",
+        "marca": "BMW",
+        "key": "316-154",
+        "id": "154",
+        "fipe_name": "316 (todas)"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "316i 1.6 TB 16V 136cv 4p",
+        "marca": "BMW",
+        "key": "316i-6660",
+        "id": "6660",
+        "fipe_name": "316i 1.6 TB 16V 136cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318i Cabrio 1.8 16V",
+        "marca": "BMW",
+        "key": "318i-155",
+        "id": "155",
+        "fipe_name": "318i Cabrio 1.8 16V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318i/iA 1.8 16V",
+        "marca": "BMW",
+        "key": "318i-ia-156",
+        "id": "156",
+        "fipe_name": "318i/iA 1.8 16V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318i/iA Compact 1.8 16V",
+        "marca": "BMW",
+        "key": "318i-ia-157",
+        "id": "157",
+        "fipe_name": "318i/iA Compact 1.8 16V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318iA 2.0 16V 136cv 5p",
+        "marca": "BMW",
+        "key": "318ia-5607",
+        "id": "5607",
+        "fipe_name": "318iA 2.0 16V 136cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318iS/ISA 1.9 16V",
+        "marca": "BMW",
+        "key": "318is-isa-158",
+        "id": "158",
+        "fipe_name": "318iS/ISA 1.9 16V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318Ti Compact Mec",
+        "marca": "BMW",
+        "key": "318ti-159",
+        "id": "159",
+        "fipe_name": "318Ti Compact Mec"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "318Ti/TiA Compact 1.9 16V",
+        "marca": "BMW",
+        "key": "318ti-tia-160",
+        "id": "160",
+        "fipe_name": "318Ti/TiA Compact 1.9 16V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "320i",
+        "marca": "BMW",
+        "key": "320i-161",
+        "id": "161",
+        "fipe_name": "320i"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "320iA",
+        "marca": "BMW",
+        "key": "320ia-162",
+        "id": "162",
+        "fipe_name": "320iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "320iA 2.0 TB M Sport A.Flex/M.Sport 4p",
+        "marca": "BMW",
+        "key": "320ia-7256",
+        "id": "7256",
+        "fipe_name": "320iA 2.0 TB M Sport A.Flex/M.Sport 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "320iA 2.0 Turbo/ActiveFlex 16V 184cv  4p",
+        "marca": "BMW",
+        "key": "320ia-6090",
+        "id": "6090",
+        "fipe_name": "320iA 2.0 Turbo/ActiveFlex 16V 184cv  4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "320iA GT Sport 2.0 Turbo 16V 184cv 5p",
+        "marca": "BMW",
+        "key": "320ia-6609",
+        "id": "6609",
+        "fipe_name": "320iA GT Sport 2.0 Turbo 16V 184cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "320iA Modern/Sport TB 2.0/A.Flex 16V 4p",
+        "marca": "BMW",
+        "key": "320ia-6091",
+        "id": "6091",
+        "fipe_name": "320iA Modern/Sport TB 2.0/A.Flex 16V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323Ci Coup\u00ea",
+        "marca": "BMW",
+        "key": "323ci-163",
+        "id": "163",
+        "fipe_name": "323Ci Coup\u00ea"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323CiA Coup\u00ea",
+        "marca": "BMW",
+        "key": "323cia-164",
+        "id": "164",
+        "fipe_name": "323CiA Coup\u00ea"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323i 2.5 24V",
+        "marca": "BMW",
+        "key": "323i-165",
+        "id": "165",
+        "fipe_name": "323i 2.5 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323i Confort",
+        "marca": "BMW",
+        "key": "323i-166",
+        "id": "166",
+        "fipe_name": "323i Confort"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323i Sport",
+        "marca": "BMW",
+        "key": "323i-167",
+        "id": "167",
+        "fipe_name": "323i Sport"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323i Touring",
+        "marca": "BMW",
+        "key": "323i-168",
+        "id": "168",
+        "fipe_name": "323i Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323i/iA Exclusive",
+        "marca": "BMW",
+        "key": "323i-ia-172",
+        "id": "172",
+        "fipe_name": "323i/iA Exclusive"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323iA 2.5 24V",
+        "marca": "BMW",
+        "key": "323ia-169",
+        "id": "169",
+        "fipe_name": "323iA 2.5 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323iA Confort",
+        "marca": "BMW",
+        "key": "323ia-170",
+        "id": "170",
+        "fipe_name": "323iA Confort"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323iA Entry Sedan",
+        "marca": "BMW",
+        "key": "323ia-171",
+        "id": "171",
+        "fipe_name": "323iA Entry Sedan"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323iA Sport",
+        "marca": "BMW",
+        "key": "323ia-173",
+        "id": "173",
+        "fipe_name": "323iA Sport"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323iA Top Sedan",
+        "marca": "BMW",
+        "key": "323ia-174",
+        "id": "174",
+        "fipe_name": "323iA Top Sedan"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323iA Touring",
+        "marca": "BMW",
+        "key": "323ia-175",
+        "id": "175",
+        "fipe_name": "323iA Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323Ti Compact",
+        "marca": "BMW",
+        "key": "323ti-176",
+        "id": "176",
+        "fipe_name": "323Ti Compact"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323Ti Compact Sport",
+        "marca": "BMW",
+        "key": "323ti-177",
+        "id": "177",
+        "fipe_name": "323Ti Compact Sport"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "323TiA Compact Top",
+        "marca": "BMW",
+        "key": "323tia-178",
+        "id": "178",
+        "fipe_name": "323TiA Compact Top"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "325i",
+        "marca": "BMW",
+        "key": "325i-179",
+        "id": "179",
+        "fipe_name": "325i"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "325i/iA Cabrio",
+        "marca": "BMW",
+        "key": "325i-ia-180",
+        "id": "180",
+        "fipe_name": "325i/iA Cabrio"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "325iA",
+        "marca": "BMW",
+        "key": "325ia-181",
+        "id": "181",
+        "fipe_name": "325iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "325iA 2.5 24V Protection",
+        "marca": "BMW",
+        "key": "325ia-182",
+        "id": "182",
+        "fipe_name": "325iA 2.5 24V Protection"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "325iA Coup\u00e9 2.5 24V 2p",
+        "marca": "BMW",
+        "key": "325ia-183",
+        "id": "183",
+        "fipe_name": "325iA Coup\u00e9 2.5 24V 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "325iA Touring",
+        "marca": "BMW",
+        "key": "325ia-3955",
+        "id": "3955",
+        "fipe_name": "325iA Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328i Exclusive 2.8 24V",
+        "marca": "BMW",
+        "key": "328i-184",
+        "id": "184",
+        "fipe_name": "328i Exclusive 2.8 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328i Touring/Sport",
+        "marca": "BMW",
+        "key": "328i-185",
+        "id": "185",
+        "fipe_name": "328i Touring/Sport"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328i/iA (modelo antigo)",
+        "marca": "BMW",
+        "key": "328i-ia-186",
+        "id": "186",
+        "fipe_name": "328i/iA (modelo antigo)"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328i/iA (novo modelo)",
+        "marca": "BMW",
+        "key": "328i-ia-187",
+        "id": "187",
+        "fipe_name": "328i/iA (novo modelo)"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328i/iA Cabrio",
+        "marca": "BMW",
+        "key": "328i-ia-188",
+        "id": "188",
+        "fipe_name": "328i/iA Cabrio"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA 2.0 TB/2.0 TB Flex 16V 4p",
+        "marca": "BMW",
+        "key": "328ia-6046",
+        "id": "6046",
+        "fipe_name": "328iA 2.0 TB/2.0 TB Flex 16V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA Exclusive 2.8 24V",
+        "marca": "BMW",
+        "key": "328ia-189",
+        "id": "189",
+        "fipe_name": "328iA Exclusive 2.8 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA GT M Sport 2.0 Turbo 16V 245cv 5p",
+        "marca": "BMW",
+        "key": "328ia-6633",
+        "id": "6633",
+        "fipe_name": "328iA GT M Sport 2.0 Turbo 16V 245cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA Luxury/Modern 2.0 TB 16V 4p",
+        "marca": "BMW",
+        "key": "328ia-6047",
+        "id": "6047",
+        "fipe_name": "328iA Luxury/Modern 2.0 TB 16V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA M Sport 2.0 16V Flex 4p",
+        "marca": "BMW",
+        "key": "328ia-7303",
+        "id": "7303",
+        "fipe_name": "328iA M Sport 2.0 16V Flex 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA Plus 2.0 TB 16V 245cv 4p",
+        "marca": "BMW",
+        "key": "328ia-6048",
+        "id": "6048",
+        "fipe_name": "328iA Plus 2.0 TB 16V 245cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA Sport 2.0 16V/2.0 16V Flex 4p",
+        "marca": "BMW",
+        "key": "328ia-6049",
+        "id": "6049",
+        "fipe_name": "328iA Sport 2.0 16V/2.0 16V Flex 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "328iA Touring/Sport",
+        "marca": "BMW",
+        "key": "328ia-190",
+        "id": "190",
+        "fipe_name": "328iA Touring/Sport"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330Ci Cabriolet",
+        "marca": "BMW",
+        "key": "330ci-191",
+        "id": "191",
+        "fipe_name": "330Ci Cabriolet"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330CiA Cabriolet",
+        "marca": "BMW",
+        "key": "330cia-192",
+        "id": "192",
+        "fipe_name": "330CiA Cabriolet"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330i M Sport 2.0 TB 16V 4p",
+        "marca": "BMW",
+        "key": "330i-8630",
+        "id": "8630",
+        "fipe_name": "330i M Sport 2.0 TB 16V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330i MotorSport 3.0 24V 4p",
+        "marca": "BMW",
+        "key": "330i-193",
+        "id": "193",
+        "fipe_name": "330i MotorSport 3.0 24V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330i Sport 2.0 TB 16V 4p",
+        "marca": "BMW",
+        "key": "330i-8688",
+        "id": "8688",
+        "fipe_name": "330i Sport 2.0 TB 16V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330iA Exclusive 3.0 24V 4p",
+        "marca": "BMW",
+        "key": "330ia-3956",
+        "id": "3956",
+        "fipe_name": "330iA Exclusive 3.0 24V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330iA MotorSport 4p",
+        "marca": "BMW",
+        "key": "330ia-194",
+        "id": "194",
+        "fipe_name": "330iA MotorSport 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "330iA Top 4p",
+        "marca": "BMW",
+        "key": "330ia-195",
+        "id": "195",
+        "fipe_name": "330iA Top 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "335i 3.0 ActiveHybrid 3",
+        "marca": "BMW",
+        "key": "335i-6512",
+        "id": "6512",
+        "fipe_name": "335i 3.0 ActiveHybrid 3"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "335iA 3.0 24V 306cv",
+        "marca": "BMW",
+        "key": "335ia-4272",
+        "id": "4272",
+        "fipe_name": "335iA 3.0 24V 306cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "335iA Cabriolet 3.0 24V 306cv",
+        "marca": "BMW",
+        "key": "335ia-4416",
+        "id": "4416",
+        "fipe_name": "335iA Cabriolet 3.0 24V 306cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "335iA M Sport 3.0 24V 306cv 4p",
+        "marca": "BMW",
+        "key": "335ia-6513",
+        "id": "6513",
+        "fipe_name": "335iA M Sport 3.0 24V 306cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "335iA Sport 3.0 24V 306cv 4p",
+        "marca": "BMW",
+        "key": "335ia-6148",
+        "id": "6148",
+        "fipe_name": "335iA Sport 3.0 24V 306cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "420i Cabriolet Sport 2.0 TB 184cv 2p",
+        "marca": "BMW",
+        "key": "420i-7083",
+        "id": "7083",
+        "fipe_name": "420i Cabriolet Sport 2.0 TB 184cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "428i Cabriolet Sport 2.0 TB 245cv 2p",
+        "marca": "BMW",
+        "key": "428i-6952",
+        "id": "6952",
+        "fipe_name": "428i Cabriolet Sport 2.0 TB 245cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "428i Gran Coupe M Sport 2.0 TB 245cv",
+        "marca": "BMW",
+        "key": "428i-7084",
+        "id": "7084",
+        "fipe_name": "428i Gran Coupe M Sport 2.0 TB 245cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "428i Gran Coupe Sport 2.0 TB 245cv",
+        "marca": "BMW",
+        "key": "428i-7085",
+        "id": "7085",
+        "fipe_name": "428i Gran Coupe Sport 2.0 TB 245cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "430i Cab. Sport Limited Ed.2.0 TB 2p",
+        "marca": "BMW",
+        "key": "430i-7728",
+        "id": "7728",
+        "fipe_name": "430i Cab. Sport Limited Ed.2.0 TB 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "430i Cabriolet Sport 2.0 TB 252cv 2p",
+        "marca": "BMW",
+        "key": "430i-7875",
+        "id": "7875",
+        "fipe_name": "430i Cabriolet Sport 2.0 TB 252cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "430i Gran Coup\u00e9 M Sport TB 5p",
+        "marca": "BMW",
+        "key": "430i-7729",
+        "id": "7729",
+        "fipe_name": "430i Gran Coup\u00e9 M Sport TB 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "435iA M Sport Coupe 3.0 24V 306cv 2p",
+        "marca": "BMW",
+        "key": "435ia-6691",
+        "id": "6691",
+        "fipe_name": "435iA M Sport Coupe 3.0 24V 306cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "520i 2.0 16V",
+        "marca": "BMW",
+        "key": "520i-196",
+        "id": "196",
+        "fipe_name": "520i 2.0 16V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "525i/iA",
+        "marca": "BMW",
+        "key": "525i-ia-197",
+        "id": "197",
+        "fipe_name": "525i/iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "525i/iA Touring",
+        "marca": "BMW",
+        "key": "525i-ia-198",
+        "id": "198",
+        "fipe_name": "525i/iA Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "528i/iA",
+        "marca": "BMW",
+        "key": "528i-ia-199",
+        "id": "199",
+        "fipe_name": "528i/iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "528iA 2.0 Turbo 16V 245cv 4p",
+        "marca": "BMW",
+        "key": "528ia-6149",
+        "id": "6149",
+        "fipe_name": "528iA 2.0 Turbo 16V 245cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "528iA High",
+        "marca": "BMW",
+        "key": "528ia-200",
+        "id": "200",
+        "fipe_name": "528iA High"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "528iA M Sport 2.0 Turbo 16V 245cv 4p",
+        "marca": "BMW",
+        "key": "528ia-6514",
+        "id": "6514",
+        "fipe_name": "528iA M Sport 2.0 Turbo 16V 245cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "528iA Touring",
+        "marca": "BMW",
+        "key": "528ia-201",
+        "id": "201",
+        "fipe_name": "528iA Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "530e M Sport 2.0 Turbo H\u00edbrido Aut.",
+        "marca": "BMW",
+        "key": "530e-8543",
+        "id": "8543",
+        "fipe_name": "530e M Sport 2.0 Turbo H\u00edbrido Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "530i M Sport 2.0 Turbo 252cv Aut.",
+        "marca": "BMW",
+        "key": "530i-7918",
+        "id": "7918",
+        "fipe_name": "530i M Sport 2.0 Turbo 252cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "530i/iA",
+        "marca": "BMW",
+        "key": "530i-ia-202",
+        "id": "202",
+        "fipe_name": "530i/iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "530i/iA Touring",
+        "marca": "BMW",
+        "key": "530i-ia-203",
+        "id": "203",
+        "fipe_name": "530i/iA Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "535i/iA 3.5 24V",
+        "marca": "BMW",
+        "key": "535i-ia-204",
+        "id": "204",
+        "fipe_name": "535i/iA 3.5 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "535iA 3.0 24V 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "535ia-5267",
+        "id": "5267",
+        "fipe_name": "535iA 3.0 24V 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "535iA GT 3.0 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "535ia-5292",
+        "id": "5292",
+        "fipe_name": "535iA GT 3.0 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "535iA M Sport 3.0 24V 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "535ia-6415",
+        "id": "6415",
+        "fipe_name": "535iA M Sport 3.0 24V 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540i",
+        "marca": "BMW",
+        "key": "540i-205",
+        "id": "205",
+        "fipe_name": "540i"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540i M Sport 3.0 Turbo 340cv Aut.",
+        "marca": "BMW",
+        "key": "540i-7919",
+        "id": "7919",
+        "fipe_name": "540i M Sport 3.0 Turbo 340cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540i/iA Touring",
+        "marca": "BMW",
+        "key": "540i-ia-206",
+        "id": "206",
+        "fipe_name": "540i/iA Touring"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540iA",
+        "marca": "BMW",
+        "key": "540ia-207",
+        "id": "207",
+        "fipe_name": "540iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540iA MotorSport",
+        "marca": "BMW",
+        "key": "540ia-208",
+        "id": "208",
+        "fipe_name": "540iA MotorSport"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540iA Protection",
+        "marca": "BMW",
+        "key": "540ia-209",
+        "id": "209",
+        "fipe_name": "540iA Protection"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "540iTA",
+        "marca": "BMW",
+        "key": "540ita-210",
+        "id": "210",
+        "fipe_name": "540iTA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "545iA 4.4 32V V8 333cv",
+        "marca": "BMW",
+        "key": "545ia-211",
+        "id": "211",
+        "fipe_name": "545iA 4.4 32V V8 333cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "550iA 4.4 32V 407cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "550ia-5268",
+        "id": "5268",
+        "fipe_name": "550iA 4.4 32V 407cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "550iA 4.8 32V",
+        "marca": "BMW",
+        "key": "550ia-3880",
+        "id": "3880",
+        "fipe_name": "550iA 4.8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "550iA Limited Sport Edition 4.8 32V",
+        "marca": "BMW",
+        "key": "550ia-4995",
+        "id": "4995",
+        "fipe_name": "550iA Limited Sport Edition 4.8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "550iA Security 4.8 32V",
+        "marca": "BMW",
+        "key": "550ia-4432",
+        "id": "4432",
+        "fipe_name": "550iA Security 4.8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "640i Gran Coupe 3.0 320cv 4p",
+        "marca": "BMW",
+        "key": "640i-6378",
+        "id": "6378",
+        "fipe_name": "640i Gran Coupe 3.0 320cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "645Ci Cabriolet 4.4 V8 32V 333cv",
+        "marca": "BMW",
+        "key": "645ci-3929",
+        "id": "3929",
+        "fipe_name": "645Ci Cabriolet 4.4 V8 32V 333cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "645iA 4.4 V8 32V 333cv",
+        "marca": "BMW",
+        "key": "645ia-212",
+        "id": "212",
+        "fipe_name": "645iA 4.4 V8 32V 333cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "650Ci Cabriolet 4.4 407cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "650ci-5718",
+        "id": "5718",
+        "fipe_name": "650Ci Cabriolet 4.4 407cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "650Ci Cabriolet 4.8 V8 32V 360cv",
+        "marca": "BMW",
+        "key": "650ci-4126",
+        "id": "4126",
+        "fipe_name": "650Ci Cabriolet 4.8 V8 32V 360cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "650i Gran Coupe 4.4 V8 450cv 4p",
+        "marca": "BMW",
+        "key": "650i-6634",
+        "id": "6634",
+        "fipe_name": "650i Gran Coupe 4.4 V8 450cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "650iA 4.4 407cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "650ia-6150",
+        "id": "6150",
+        "fipe_name": "650iA 4.4 407cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "650iA 4.8 V8 32V 360cv",
+        "marca": "BMW",
+        "key": "650ia-4125",
+        "id": "4125",
+        "fipe_name": "650iA 4.8 V8 32V 360cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "650iA Limited Sport  Edition 4.8 32V",
+        "marca": "BMW",
+        "key": "650ia-5057",
+        "id": "5057",
+        "fipe_name": "650iA Limited Sport  Edition 4.8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "730i 3.0 32V",
+        "marca": "BMW",
+        "key": "730i-213",
+        "id": "213",
+        "fipe_name": "730i 3.0 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "730iA 3.0 32V",
+        "marca": "BMW",
+        "key": "730ia-214",
+        "id": "214",
+        "fipe_name": "730iA 3.0 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "735i/iA 3.5 32V",
+        "marca": "BMW",
+        "key": "735i-ia-215",
+        "id": "215",
+        "fipe_name": "735i/iA 3.5 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "740i",
+        "marca": "BMW",
+        "key": "740i-216",
+        "id": "216",
+        "fipe_name": "740i"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "740iA",
+        "marca": "BMW",
+        "key": "740ia-217",
+        "id": "217",
+        "fipe_name": "740iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "740iL/iLA Highline 4.4 32V",
+        "marca": "BMW",
+        "key": "740il-ila-218",
+        "id": "218",
+        "fipe_name": "740iL/iLA Highline 4.4 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "740iLA Protection",
+        "marca": "BMW",
+        "key": "740ila-219",
+        "id": "219",
+        "fipe_name": "740iLA Protection"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "745iA 4.4 V8 32V 333cv",
+        "marca": "BMW",
+        "key": "745ia-220",
+        "id": "220",
+        "fipe_name": "745iA 4.4 V8 32V 333cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750i",
+        "marca": "BMW",
+        "key": "750i-221",
+        "id": "221",
+        "fipe_name": "750i"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750i M Sport Sedan 4.4 V8 450cv Aut.",
+        "marca": "BMW",
+        "key": "750i-7147",
+        "id": "7147",
+        "fipe_name": "750i M Sport Sedan 4.4 V8 450cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750iA",
+        "marca": "BMW",
+        "key": "750ia-222",
+        "id": "222",
+        "fipe_name": "750iA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750iL Highline 5.4 24V",
+        "marca": "BMW",
+        "key": "750il-223",
+        "id": "223",
+        "fipe_name": "750iL Highline 5.4 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750iL M Sport Sedan 4.4 V8 450cv Aut.",
+        "marca": "BMW",
+        "key": "750il-7657",
+        "id": "7657",
+        "fipe_name": "750iL M Sport Sedan 4.4 V8 450cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750iL Pure Excellence Sedan 4.4 V8 Aut.",
+        "marca": "BMW",
+        "key": "750il-8660",
+        "id": "8660",
+        "fipe_name": "750iL Pure Excellence Sedan 4.4 V8 Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "750iLA 4.4 ActiveHybrid 7",
+        "marca": "BMW",
+        "key": "750ila-5589",
+        "id": "5589",
+        "fipe_name": "750iLA 4.4 ActiveHybrid 7"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "760iL 6.0 V12 445cv/544cv",
+        "marca": "BMW",
+        "key": "760il-224",
+        "id": "224",
+        "fipe_name": "760iL 6.0 V12 445cv/544cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "840Ci",
+        "marca": "BMW",
+        "key": "840ci-225",
+        "id": "225",
+        "fipe_name": "840Ci"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "840CiA",
+        "marca": "BMW",
+        "key": "840cia-226",
+        "id": "226",
+        "fipe_name": "840CiA"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "850Ci/CiA 5.0 24V",
+        "marca": "BMW",
+        "key": "850ci-cia-227",
+        "id": "227",
+        "fipe_name": "850Ci/CiA 5.0 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "850Ci/CiA 5.4 24V",
+        "marca": "BMW",
+        "key": "850ci-cia-228",
+        "id": "228",
+        "fipe_name": "850Ci/CiA 5.4 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "850CSi 5.6 24V",
+        "marca": "BMW",
+        "key": "850csi-229",
+        "id": "229",
+        "fipe_name": "850CSi 5.6 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "850i 5.0 24V",
+        "marca": "BMW",
+        "key": "850i-230",
+        "id": "230",
+        "fipe_name": "850i 5.0 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "i3 Rex E Drive 170cv Aut.(El\u00e9trico)",
+        "marca": "BMW",
+        "key": "i3-7023",
+        "id": "7023",
+        "fipe_name": "i3 Rex E Drive 170cv Aut.(El\u00e9trico)"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "i3 Rex E Drive Connected Aut. (El\u00e9trico)",
+        "marca": "BMW",
+        "key": "i3-8734",
+        "id": "8734",
+        "fipe_name": "i3 Rex E Drive Connected Aut. (El\u00e9trico)"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "i3 Rex E Drive Full 170cv Aut.(El\u00e9trico)",
+        "marca": "BMW",
+        "key": "i3-7024",
+        "id": "7024",
+        "fipe_name": "i3 Rex E Drive Full 170cv Aut.(El\u00e9trico)"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "i8 e-Drive 1.5 TB 12V 362cv Aut.",
+        "marca": "BMW",
+        "key": "i8-7025",
+        "id": "7025",
+        "fipe_name": "i8 e-Drive 1.5 TB 12V 362cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M 135i 3.0 24V 320cv",
+        "marca": "BMW",
+        "key": "m-6416",
+        "id": "6416",
+        "fipe_name": "M 135i 3.0 24V 320cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M 235i Coupe 3.0 24V 326cv",
+        "marca": "BMW",
+        "key": "m-6910",
+        "id": "6910",
+        "fipe_name": "M 235i Coupe 3.0 24V 326cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M Roadster",
+        "marca": "BMW",
+        "key": "m-231",
+        "id": "231",
+        "fipe_name": "M Roadster"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M1 Coupe 3.0 24V 340cv",
+        "marca": "BMW",
+        "key": "m1-5719",
+        "id": "5719",
+        "fipe_name": "M1 Coupe 3.0 24V 340cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M140i 3.0  24V 340cv 5p",
+        "marca": "BMW",
+        "key": "m140i-7823",
+        "id": "7823",
+        "fipe_name": "M140i 3.0  24V 340cv 5p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M2 Competition 3.0 Bi-Turbo 410cv",
+        "marca": "BMW",
+        "key": "m2-8439",
+        "id": "8439",
+        "fipe_name": "M2 Competition 3.0 Bi-Turbo 410cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M2 Coupe 3.0 Bi-Turbo 24V 370cv",
+        "marca": "BMW",
+        "key": "m2-7611",
+        "id": "7611",
+        "fipe_name": "M2 Coupe 3.0 Bi-Turbo 24V 370cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M240i Coupe 3.0 24V 340cv 2p",
+        "marca": "BMW",
+        "key": "m240i-7857",
+        "id": "7857",
+        "fipe_name": "M240i Coupe 3.0 24V 340cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 3.2 24V",
+        "marca": "BMW",
+        "key": "m3-232",
+        "id": "232",
+        "fipe_name": "M3 3.2 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Cabrio 3.0 24V",
+        "marca": "BMW",
+        "key": "m3-233",
+        "id": "233",
+        "fipe_name": "M3 Cabrio 3.0 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Cabrio 4.0 32V",
+        "marca": "BMW",
+        "key": "m3-4919",
+        "id": "4919",
+        "fipe_name": "M3 Cabrio 4.0 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Coup\u00ea 3.0 24V 255cv",
+        "marca": "BMW",
+        "key": "m3-234",
+        "id": "234",
+        "fipe_name": "M3 Coup\u00ea 3.0 24V 255cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Coup\u00ea 3.0 V6 24V 282cv",
+        "marca": "BMW",
+        "key": "m3-235",
+        "id": "235",
+        "fipe_name": "M3 Coup\u00ea 3.0 V6 24V 282cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Coup\u00ea 4.0 32V",
+        "marca": "BMW",
+        "key": "m3-4527",
+        "id": "4527",
+        "fipe_name": "M3 Coup\u00ea 4.0 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 CS Sedan 3.0 Bi-Turbo 460cv 4p",
+        "marca": "BMW",
+        "key": "m3-8661",
+        "id": "8661",
+        "fipe_name": "M3 CS Sedan 3.0 Bi-Turbo 460cv 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Sedan 3.0 Bi-Turbo 24V 4p",
+        "marca": "BMW",
+        "key": "m3-7130",
+        "id": "7130",
+        "fipe_name": "M3 Sedan 3.0 Bi-Turbo 24V 4p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M3 Sedan 4.0 32V",
+        "marca": "BMW",
+        "key": "m3-4823",
+        "id": "4823",
+        "fipe_name": "M3 Sedan 4.0 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M4 Cabriolet 3.0 Bi-Turbo 24V 431cv 2p",
+        "marca": "BMW",
+        "key": "m4-7148",
+        "id": "7148",
+        "fipe_name": "M4 Cabriolet 3.0 Bi-Turbo 24V 431cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M4 Coupe 3.0 Bi-Turbo 24V 431cv 2p",
+        "marca": "BMW",
+        "key": "m4-7116",
+        "id": "7116",
+        "fipe_name": "M4 Coupe 3.0 Bi-Turbo 24V 431cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M4 CS Coupe 3.0 Bi-Turbo 460cv 2p",
+        "marca": "BMW",
+        "key": "m4-8314",
+        "id": "8314",
+        "fipe_name": "M4 CS Coupe 3.0 Bi-Turbo 460cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M5 3.8/Touring 3.8 24V",
+        "marca": "BMW",
+        "key": "m5-236",
+        "id": "236",
+        "fipe_name": "M5 3.8/Touring 3.8 24V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M5 4.4 560cv Bi-Turbo Aut.",
+        "marca": "BMW",
+        "key": "m5-6260",
+        "id": "6260",
+        "fipe_name": "M5 4.4 560cv Bi-Turbo Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M5 5.0 32V/ 40V",
+        "marca": "BMW",
+        "key": "m5-237",
+        "id": "237",
+        "fipe_name": "M5 5.0 32V/ 40V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M5 M XDRIVE 4.4 Bi-TB V8",
+        "marca": "BMW",
+        "key": "m5-8388",
+        "id": "8388",
+        "fipe_name": "M5 M XDRIVE 4.4 Bi-TB V8"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M5 Perform. Pack M XDRIVE 4.4 Bi-TB V8",
+        "marca": "BMW",
+        "key": "m5-8389",
+        "id": "8389",
+        "fipe_name": "M5 Perform. Pack M XDRIVE 4.4 Bi-TB V8"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M6 5.0 V10 40V 507cv",
+        "marca": "BMW",
+        "key": "m6-238",
+        "id": "238",
+        "fipe_name": "M6 5.0 V10 40V 507cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M6 Coupe 4.4 Bi-Turbo V8 32V",
+        "marca": "BMW",
+        "key": "m6-6460",
+        "id": "6460",
+        "fipe_name": "M6 Coupe 4.4 Bi-Turbo V8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M6 Gran Coupe 4.4 Bi-Turbo V8 32V 560cv",
+        "marca": "BMW",
+        "key": "m6-6635",
+        "id": "6635",
+        "fipe_name": "M6 Gran Coupe 4.4 Bi-Turbo V8 32V 560cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M760Li xDrive 6.6 V12 585cv Aut.",
+        "marca": "BMW",
+        "key": "m760li-8735",
+        "id": "8735",
+        "fipe_name": "M760Li xDrive 6.6 V12 585cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "M850i XDrive Coup\u00e9 4.4 V8 530cv Aut.",
+        "marca": "BMW",
+        "key": "m850i-8736",
+        "id": "8736",
+        "fipe_name": "M850i XDrive Coup\u00e9 4.4 V8 530cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 SDRIVE 18i 2.0 16V 4x2 Aut.",
+        "marca": "BMW",
+        "key": "x1-5269",
+        "id": "5269",
+        "fipe_name": "X1 SDRIVE 18i 2.0 16V 4x2 Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+        "marca": "BMW",
+        "key": "x1-6230",
+        "id": "6230",
+        "fipe_name": "X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+        "marca": "BMW",
+        "key": "x1-8570",
+        "id": "8570",
+        "fipe_name": "X1 SDRIVE 20i X-Line 2.0 TB Active Flex"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+        "marca": "BMW",
+        "key": "x1-7449",
+        "id": "7449",
+        "fipe_name": "X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.",
+        "marca": "BMW",
+        "key": "x1-6151",
+        "id": "6151",
+        "fipe_name": "X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 XDRIVE 28i 3.0 24V 4x4 Aut.",
+        "marca": "BMW",
+        "key": "x1-5158",
+        "id": "5158",
+        "fipe_name": "X1 XDRIVE 28i 3.0 24V 4x4 Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X1 XDRIVE 28i Sport 2.0 ActiveFlex Aut.",
+        "marca": "BMW",
+        "key": "x1-7086",
+        "id": "7086",
+        "fipe_name": "X1 XDRIVE 28i Sport 2.0 ActiveFlex Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X2 SDRIVE 18i 1.5 ActiveFlex 136cv Aut.",
+        "marca": "BMW",
+        "key": "x2-8510",
+        "id": "8510",
+        "fipe_name": "X2 SDRIVE 18i 1.5 ActiveFlex 136cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X2 SDRIVE 20i 2.0/2.0 TB A. Flex 16V Aut",
+        "marca": "BMW",
+        "key": "x2-8338",
+        "id": "8338",
+        "fipe_name": "X2 SDRIVE 20i 2.0/2.0 TB A. Flex 16V Aut"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X2 SDRIVE 20i M Sport 2.0 TB A.Flex Aut.",
+        "marca": "BMW",
+        "key": "x2-8277",
+        "id": "8277",
+        "fipe_name": "X2 SDRIVE 20i M Sport 2.0 TB A.Flex Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 Family 2.5 24V 192cv/ 218cv",
+        "marca": "BMW",
+        "key": "x3-239",
+        "id": "239",
+        "fipe_name": "X3 Family 2.5 24V 192cv/ 218cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 Family 3.0 24V 231cv",
+        "marca": "BMW",
+        "key": "x3-240",
+        "id": "240",
+        "fipe_name": "X3 Family 3.0 24V 231cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 M40i 3.0 Turbo V6 360cv Aut.",
+        "marca": "BMW",
+        "key": "x3-8232",
+        "id": "8232",
+        "fipe_name": "X3 M40i 3.0 Turbo V6 360cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 Sport 2.5 24V 192cv/ 218cv",
+        "marca": "BMW",
+        "key": "x3-4241",
+        "id": "4241",
+        "fipe_name": "X3 Sport 2.5 24V 192cv/ 218cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 Sport 3.0 24V 231cv",
+        "marca": "BMW",
+        "key": "x3-241",
+        "id": "241",
+        "fipe_name": "X3 Sport 3.0 24V 231cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+        "marca": "BMW",
+        "key": "x3-6417",
+        "id": "6417",
+        "fipe_name": "X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 XDRIVE 28i 2.0 Turbo 245cv Aut.",
+        "marca": "BMW",
+        "key": "x3-6294",
+        "id": "6294",
+        "fipe_name": "X3 XDRIVE 28i 2.0 Turbo 245cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 XDRIVE 28i 3.0 258cv",
+        "marca": "BMW",
+        "key": "x3-5608",
+        "id": "5608",
+        "fipe_name": "X3 XDRIVE 28i 3.0 258cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut",
+        "marca": "BMW",
+        "key": "x3-8233",
+        "id": "8233",
+        "fipe_name": "X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "x3-5497",
+        "id": "5497",
+        "fipe_name": "X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X4 M40i 3.0 Turbo V6 360cv Aut.",
+        "marca": "BMW",
+        "key": "x4-8511",
+        "id": "8511",
+        "fipe_name": "X4 M40i 3.0 Turbo V6 360cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X4 XDRIVE 28i X-Line 2.0 Turbo 245cv Aut",
+        "marca": "BMW",
+        "key": "x4-7065",
+        "id": "7065",
+        "fipe_name": "X4 XDRIVE 28i X-Line 2.0 Turbo 245cv Aut"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X4 XDRIVE 30i M-Sport 2.0 Tb. 252cv Aut",
+        "marca": "BMW",
+        "key": "x4-8512",
+        "id": "8512",
+        "fipe_name": "X4 XDRIVE 30i M-Sport 2.0 Tb. 252cv Aut"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X4 XDRIVE 35i M-Sport 3.0 TB 306cv Aut.",
+        "marca": "BMW",
+        "key": "x4-7066",
+        "id": "7066",
+        "fipe_name": "X4 XDRIVE 35i M-Sport 3.0 TB 306cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 3.0 4x4",
+        "marca": "BMW",
+        "key": "x5-242",
+        "id": "242",
+        "fipe_name": "X5 3.0 4x4"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 4.4 4x4",
+        "marca": "BMW",
+        "key": "x5-243",
+        "id": "243",
+        "fipe_name": "X5 4.4 4x4"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 4.8 4x4 V8 32V 360cv",
+        "marca": "BMW",
+        "key": "x5-244",
+        "id": "244",
+        "fipe_name": "X5 4.8 4x4 V8 32V 360cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 Endurance 4.8is 4x4 V8 32V 355cv Aut.",
+        "marca": "BMW",
+        "key": "x5-4585",
+        "id": "4585",
+        "fipe_name": "X5 Endurance 4.8is 4x4 V8 32V 355cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.",
+        "marca": "BMW",
+        "key": "x5-5188",
+        "id": "5188",
+        "fipe_name": "X5 M 4.4 4x4 V8 32V Bi-Turbo Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 Security 4.4 4x4 V8 32V",
+        "marca": "BMW",
+        "key": "x5-4242",
+        "id": "4242",
+        "fipe_name": "X5 Security 4.4 4x4 V8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 Security 4.8is 4x4 V8 32V 355cv Aut.",
+        "marca": "BMW",
+        "key": "x5-5020",
+        "id": "5020",
+        "fipe_name": "X5 Security 4.8is 4x4 V8 32V 355cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 Sport 4.4 4x4 V8 32V",
+        "marca": "BMW",
+        "key": "x5-245",
+        "id": "245",
+        "fipe_name": "X5 Sport 4.4 4x4 V8 32V"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 Sport 4.8 4x4 V8 32V 355cv",
+        "marca": "BMW",
+        "key": "x5-4331",
+        "id": "4331",
+        "fipe_name": "X5 Sport 4.8 4x4 V8 32V 355cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 30d 3.0 Diesel",
+        "marca": "BMW",
+        "key": "x5-7283",
+        "id": "7283",
+        "fipe_name": "X5 XDRIVE 30d 3.0 Diesel"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 30d Full 3.0 258cv Diesel",
+        "marca": "BMW",
+        "key": "x5-7087",
+        "id": "7087",
+        "fipe_name": "X5 XDRIVE 30d Full 3.0 258cv Diesel"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 30d M Sport 3.0 265cv Dies Aut",
+        "marca": "BMW",
+        "key": "x5-8662",
+        "id": "8662",
+        "fipe_name": "X5 XDRIVE 30d M Sport 3.0 265cv Dies Aut"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 35i 3.0 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "x5-5356",
+        "id": "5356",
+        "fipe_name": "X5 XDRIVE 35i 3.0 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 35i Full 3.0 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "x5-6911",
+        "id": "6911",
+        "fipe_name": "X5 XDRIVE 35i Full 3.0 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 50i 4.4  Bi-Turbo",
+        "marca": "BMW",
+        "key": "x5-5357",
+        "id": "5357",
+        "fipe_name": "X5 XDRIVE 50i 4.4  Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 50i M Sport 4.4 Bi-Turbo",
+        "marca": "BMW",
+        "key": "x5-6710",
+        "id": "6710",
+        "fipe_name": "X5 XDRIVE 50i M Sport 4.4 Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE 50i Security 4.4 Bi-Turbo",
+        "marca": "BMW",
+        "key": "x5-5590",
+        "id": "5590",
+        "fipe_name": "X5 XDRIVE 50i Security 4.4 Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X5 XDRIVE M50d 3.0 Diesel",
+        "marca": "BMW",
+        "key": "x5-7117",
+        "id": "7117",
+        "fipe_name": "X5 XDRIVE M50d 3.0 Diesel"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.",
+        "marca": "BMW",
+        "key": "x6-5189",
+        "id": "5189",
+        "fipe_name": "X6 M 4.4 4x4 V8 32V Bi-Turbo Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X6 XDRIVE 35i 3.0 306cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "x6-4745",
+        "id": "4745",
+        "fipe_name": "X6 XDRIVE 35i 3.0 306cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X6 XDRIVE 50i 4.4 407cv Bi-Turbo",
+        "marca": "BMW",
+        "key": "x6-4746",
+        "id": "4746",
+        "fipe_name": "X6 XDRIVE 50i 4.4 407cv Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X6 XDRIVE 50i M Sport 4.4 Bi-Turbo",
+        "marca": "BMW",
+        "key": "x6-7088",
+        "id": "7088",
+        "fipe_name": "X6 XDRIVE 50i M Sport 4.4 Bi-Turbo"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "X7 XDRIVE 50i M Sport 4.4 V8 Bi-TB Aut.",
+        "marca": "BMW",
+        "key": "x7-8776",
+        "id": "8776",
+        "fipe_name": "X7 XDRIVE 50i M Sport 4.4 V8 Bi-TB Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z3 2.8 Aut.",
+        "marca": "BMW",
+        "key": "z3-246",
+        "id": "246",
+        "fipe_name": "Z3 2.8 Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z3 2.8 Mec.",
+        "marca": "BMW",
+        "key": "z3-247",
+        "id": "247",
+        "fipe_name": "Z3 2.8 Mec."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z3 3.0 24V Roadster 2p",
+        "marca": "BMW",
+        "key": "z3-248",
+        "id": "248",
+        "fipe_name": "Z3 3.0 24V Roadster 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z3 Roadster 1.9 Mec.",
+        "marca": "BMW",
+        "key": "z3-249",
+        "id": "249",
+        "fipe_name": "Z3 Roadster 1.9 Mec."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z3 Roadster 2.8",
+        "marca": "BMW",
+        "key": "z3-4887",
+        "id": "4887",
+        "fipe_name": "Z3 Roadster 2.8"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z3 Roadster M 3.2",
+        "marca": "BMW",
+        "key": "z3-250",
+        "id": "250",
+        "fipe_name": "Z3 Roadster M 3.2"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Coup\u00e9 M 3.2 V6 24V 343cv",
+        "marca": "BMW",
+        "key": "z4-4243",
+        "id": "4243",
+        "fipe_name": "Z4 Coup\u00e9 M 3.2 V6 24V 343cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 M40i 3.0 340cv Aut.",
+        "marca": "BMW",
+        "key": "z4-8777",
+        "id": "8777",
+        "fipe_name": "Z4 M40i 3.0 340cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster 2.0 150cv 2p",
+        "marca": "BMW",
+        "key": "z4-4185",
+        "id": "4185",
+        "fipe_name": "Z4 Roadster 2.0 150cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster 3.0 V6 24V Aut.",
+        "marca": "BMW",
+        "key": "z4-251",
+        "id": "251",
+        "fipe_name": "Z4 Roadster 3.0 V6 24V Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster M 3.2 V6 24V 343cv",
+        "marca": "BMW",
+        "key": "z4-4244",
+        "id": "4244",
+        "fipe_name": "Z4 Roadster M 3.2 V6 24V 343cv"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster sDRIVE 20i 2.0 16V 2p Aut.",
+        "marca": "BMW",
+        "key": "z4-6261",
+        "id": "6261",
+        "fipe_name": "Z4 Roadster sDRIVE 20i 2.0 16V 2p Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster sDRIVE 23i 2.5 24V 204cv 2p",
+        "marca": "BMW",
+        "key": "z4-4996",
+        "id": "4996",
+        "fipe_name": "Z4 Roadster sDRIVE 23i 2.5 24V 204cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut",
+        "marca": "BMW",
+        "key": "z4-8689",
+        "id": "8689",
+        "fipe_name": "Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster sDRIVE 35i 3.0 24V 306cv 2p",
+        "marca": "BMW",
+        "key": "z4-4997",
+        "id": "4997",
+        "fipe_name": "Z4 Roadster sDRIVE 35i 3.0 24V 306cv 2p"
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z4 Roadster Sport 3.0 24V 231cv Aut.",
+        "marca": "BMW",
+        "key": "z4-252",
+        "id": "252",
+        "fipe_name": "Z4 Roadster Sport 3.0 24V 231cv Aut."
+    },
+    {
+        "id_marca": 7,
+        "fipe_marca": "BMW",
+        "name": "Z8 5.0 V8",
+        "marca": "BMW",
+        "key": "z8-253",
+        "id": "253",
+        "fipe_name": "Z8 5.0 V8"
+    }
+]
