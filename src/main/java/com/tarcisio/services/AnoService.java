@@ -8,16 +8,14 @@ import com.tarcisio.repository.Repository;
 import java.io.File;
 import java.util.Iterator;
 
-public class ModeloService implements Repository {
+public class AnoService implements Repository {
 
-    File jsonData = new File("modelos.json");
-
+    File jsonData = new File("anos.json");
 
 
     @Override
-    public String findById(String idMarca) {
+    public String findById(String idModelo) {
         try {
-
             //create ObjectMapper instance
             ObjectMapper objectMapper = new ObjectMapper();
             ArrayNode root = objectMapper.createArrayNode();
@@ -27,8 +25,9 @@ public class ModeloService implements Repository {
             Iterator<JsonNode> elements = rootNode.elements();
             while (elements.hasNext()) {
                 JsonNode node = elements.next();
-                String idMarca_ = node.get("id_marca").toString();
-                if(idMarca_.equals(idMarca)) {
+
+                String idModelo_ = node.get("id_modelo").toString();
+                if(idModelo_.equals(idModelo)) {
                     root.add(node);
                 }
             }
@@ -41,20 +40,15 @@ public class ModeloService implements Repository {
 
     @Override
     public String findAll() {
-        try {
-            StringBuilder builder = new StringBuilder();
+        try {          
 
             //create ObjectMapper instance
             ObjectMapper objectMapper = new ObjectMapper();
 
             //read JSON like DOM Parser
-            JsonNode rootNode = objectMapper.readTree(jsonData);
-            Iterator<JsonNode> elements = rootNode.elements();
-            while (elements.hasNext()) {
-                JsonNode node = elements.next();
-                builder.append(node.toString());
-            }
-            return builder.toString();
+            JsonNode rootNode = objectMapper.readTree(jsonData);            
+           
+            return rootNode.toString();
         } catch (Exception ex) {
             ex.printStackTrace();
         }

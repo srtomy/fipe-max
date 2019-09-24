@@ -8,14 +8,14 @@ import com.tarcisio.repository.Repository;
 import java.io.File;
 import java.util.Iterator;
 
-public class ModeloService implements Repository {
+public class ValorService implements Repository {
 
-    File jsonData = new File("modelos.json");
+    File jsonData = new File("valores.json");
 
 
 
     @Override
-    public String findById(String idMarca) {
+    public String findById(String idAno) {
         try {
 
             //create ObjectMapper instance
@@ -27,8 +27,9 @@ public class ModeloService implements Repository {
             Iterator<JsonNode> elements = rootNode.elements();
             while (elements.hasNext()) {
                 JsonNode node = elements.next();
-                String idMarca_ = node.get("id_marca").toString();
-                if(idMarca_.equals(idMarca)) {
+
+                String idAno_ = node.get("id_ano").asText();                
+                if(idAno.equalsIgnoreCase(idAno_)) {                   
                     root.add(node);
                 }
             }

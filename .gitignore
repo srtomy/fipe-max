@@ -18,3 +18,7 @@ temp/
 *~
 *log.lck
 systemup.log*
+.buildconfig
+.sts4-cache/
+.vscode/
+.attach_pid*
