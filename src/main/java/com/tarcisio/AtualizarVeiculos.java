@@ -1,19 +1,11 @@
 package com.tarcisio;
 
-import java.io.*;
-import java.math.BigDecimal;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.net.URL;
-import java.net.URLConnection;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.text.DecimalFormat;
-import java.util.Iterator;
 import java.util.List;
-import java.util.stream.Collectors;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.tarcisio.logic.ObterAllValuesJson;
 import com.tarcisio.logic.ObterIds;
 

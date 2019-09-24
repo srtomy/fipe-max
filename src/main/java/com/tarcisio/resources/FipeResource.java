@@ -5,6 +5,7 @@ import com.tarcisio.services.MarcaService;
 import com.tarcisio.services.ModeloService;
 import com.tarcisio.services.ValorService;
 
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -16,27 +17,28 @@ public class FipeResource {
 
     MarcaService serviceMarca = new MarcaService();
     ModeloService serviceModelo = new ModeloService();
-    AnoService serviceAno = new AnoService();    
+    AnoService serviceAno = new AnoService();
     ValorService serviceValor = new ValorService();
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/marcas")
-    public String findAllMarca(){
-        return serviceMarca.findAll();
+    public ResponseEntity<String> findAllMarca() {
+        return ResponseEntity.ok().body(serviceMarca.findAll());
     }
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/{idMarca}")
-    public String findModeloByMarca(@PathVariable String idMarca){
-        return serviceModelo.findById(idMarca);
+    public ResponseEntity<String> findModeloByMarca(@PathVariable String idMarca) {
+        return ResponseEntity.ok().body(serviceModelo.findById(idMarca));
     }
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/{idMarca}/{idModelo}")
-    public String findAnoByModelo(@PathVariable String idMarca, @PathVariable String idModelo){
-        return serviceAno.findById(idModelo);
-    }    
+    public ResponseEntity<String> findAnoByModelo(@PathVariable String idMarca, @PathVariable String idModelo) {
+        return ResponseEntity.ok().body(serviceAno.findById(idModelo));
+    }
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/{idMarca}/{idModelo}/{idAno}")
-    public String findValorByAno(@PathVariable String idMarca, @PathVariable String idModelo, @PathVariable String idAno){
+    public ResponseEntity<String> findValorByAno(@PathVariable String idMarca, @PathVariable String idModelo,
+            @PathVariable String idAno) {
         System.out.print(idAno);
-        return serviceValor.findById(idAno);
+        return ResponseEntity.ok().body(serviceValor.findById(idAno));
     }
 }
