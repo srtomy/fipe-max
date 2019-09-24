@@ -37,8 +37,7 @@ public class FipeResource {
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/{idMarca}/{idModelo}/{idAno}")
     public ResponseEntity<String> findValorByAno(@PathVariable String idMarca, @PathVariable String idModelo,
-            @PathVariable String idAno) {
-        System.out.print(idAno);
-        return ResponseEntity.ok().body(serviceValor.findById(idAno));
+            @PathVariable String idAno) {        
+        return ResponseEntity.ok().body(serviceValor.findById(idAno,idModelo));
     }
 }

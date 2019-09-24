@@ -3,17 +3,15 @@ package com.tarcisio.services;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.tarcisio.repository.Repository;
 import com.tarcisio.services.exception.ObjectNotFoundException;
 
 import java.io.File;
 import java.util.Iterator;
 
-public class ModeloService implements Repository {
+public class ModeloService {
 
     File jsonData = new File("modelos.json");
 
-    @Override
     public String findById(String idMarca) {
 
         // create ObjectMapper instance
@@ -42,7 +40,6 @@ public class ModeloService implements Repository {
         return root.toString();
     }
 
-    @Override
     public String findAll() {
         try {
             StringBuilder builder = new StringBuilder();

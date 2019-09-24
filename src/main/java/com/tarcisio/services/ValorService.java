@@ -3,18 +3,16 @@ package com.tarcisio.services;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.tarcisio.repository.Repository;
 import com.tarcisio.services.exception.ObjectNotFoundException;
 
 import java.io.File;
 import java.util.Iterator;
 
-public class ValorService implements Repository {
+public class ValorService {
 
     File jsonData = new File("valores.json");
-
-    @Override
-    public String findById(String idAno) {
+    
+    public String findById(String idAno, String idModelo) {
 
         // create ObjectMapper instance
         ObjectMapper objectMapper = new ObjectMapper();
@@ -28,7 +26,8 @@ public class ValorService implements Repository {
                 JsonNode node = elements.next();
 
                 String idAno_ = node.get("id_ano").asText();
-                if (idAno.equalsIgnoreCase(idAno_)) {
+                String idModelo_ = node.get("id_modelo").asText();
+                if (idAno.equalsIgnoreCase(idAno_) && idModelo.equalsIgnoreCase(idModelo_)) {
                     root.add(node);
                 }
             }
@@ -41,8 +40,7 @@ public class ValorService implements Repository {
 
         return root.toString();
     }
-
-    @Override
+    
     public String findAll() {
         try {
             StringBuilder builder = new StringBuilder();
