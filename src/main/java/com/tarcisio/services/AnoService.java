@@ -11,7 +11,7 @@ import java.util.Iterator;
 public class AnoService {
 
     File jsonData = new File("anos.json");
-    
+
     public String findById(String idModelo) {
 
         // create ObjectMapper instance
@@ -25,21 +25,26 @@ public class AnoService {
             while (elements.hasNext()) {
                 JsonNode node = elements.next();
 
-                String idModelo_ = node.get("id_modelo").toString();
-                if (idModelo_.equals(idModelo)) {
-                    root.add(node);
+                JsonNode nodeId = node.get("id_modelo");
+
+                
+                if (nodeId != null) {
+
+                    if (nodeId.toString().equals(idModelo)) {
+                        root.add(node);
+                    }
                 }
             }
         } catch (Exception ex) {
             throw new RuntimeException("erro ao carregar json: " + jsonData.getName(), ex);
         }
 
-        if(root.size() == 0)
+        if (root.size() == 0)
             throw new ObjectNotFoundException("modelo não encontrada: " + idModelo);
 
         return root.toString();
     }
-    
+
     public String findAll() {
         try {
 

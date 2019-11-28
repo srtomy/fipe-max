@@ -31,13 +31,16 @@ public class FipeResource {
     }
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/{idMarca}/{idModelo}")
-    public ResponseEntity<String> findAnoByModelo(@PathVariable String idMarca, @PathVariable String idModelo) {
+    public ResponseEntity<String> findAnoByModelo(@PathVariable String idMarca, @PathVariable String idModelo) {        
         return ResponseEntity.ok().body(serviceAno.findById(idModelo));
     }
 
     @RequestMapping(method = RequestMethod.GET, produces = "application/json", value = "/{idMarca}/{idModelo}/{idAno}")
     public ResponseEntity<String> findValorByAno(@PathVariable String idMarca, @PathVariable String idModelo,
             @PathVariable String idAno) {        
+
+                System.out.print("--------------------entrou: "+idMarca+"-"+idModelo+"-"+idAno+"-------------------");
+
         return ResponseEntity.ok().body(serviceValor.findById(idAno,idModelo));
     }
 }
