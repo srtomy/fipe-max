@@ -40,6 +40,32 @@ public class ModeloService {
         return root.toString();
     }
 
+    public String findByModeloId(String idModelo, String idMarca) {
+        // create ObjectMapper instance
+        ObjectMapper objectMapper = new ObjectMapper();        
+
+        try {
+            // read JSON like DOM Parser
+            JsonNode rootNode = objectMapper.readTree(jsonData);
+            Iterator<JsonNode> elements = rootNode.elements();
+            while (elements.hasNext()) {
+                JsonNode node = elements.next();
+
+                String idModelo_ = node.get("id").asText();
+                String strIdMarca = node.get("id_marca").asText();
+
+
+                if (idModelo_.equals(idModelo)&&strIdMarca.equals(strIdMarca)) {
+                   return node.toString();
+                }
+            }
+        } catch (Exception ex) {
+            throw new RuntimeException("erro ao carregar json: " + jsonData.getName(), ex);
+        }   
+        
+        return null;
+    }
+
     public String findAll() {
         try {
             StringBuilder builder = new StringBuilder();
